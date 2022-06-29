@@ -5,9 +5,11 @@
 
 - 🌱 I’m currently learning **Programming Hero Course**
 
+- 👯 I’m looking to collaborate on **github**
+
 - 👨‍💻 All of my projects are available at [kawsarkabir.com](kawsarkabir.com)
 
-- 💬 Ask me about **HTML,CSS BOOTSTRAP**
+- 💬 Ask me about **Html,Css,Bootstrap**
 
 - 📫 How to reach me **kawsarkabir11@gmail.com**
 
