@@ -1,36 +1,30 @@
- <h1 align="center">Hi 👋, I'm KAWSAR KABIR</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+(https://pbs.twimg.com/profile_banners/1495128278180724736/1657804037/1500x500)
+### Hi there 👋, i am KAWSAR KABIR
+#### Programmer | Designer | Web Developer
+![Programmer | Designer | Web Developer]
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kawsarkabir&label=Profile%20views&color=0e75b6&style=flat" alt="kawsarkabir" /> </p>
+I am web developer and content creator. I am a passionate tech lover, a problem solver & always ready to face new challenges.
+I always remember that something has to be done in life. Maybe, my thoughts will one day take me too far.
 
-- 🌱 I’m currently learning **Programming Hero Course**
+Skills: HTML / CSS / BOOTSTRAP / WORDPRESS
 
-- 👯 I’m looking to collaborate on **github**
+- 🔭 I’m currently working on Youtube 
+- 🌱 I’m currently learning Programming Hero Course 
+- 👯 I’m looking to collaborate on Open source projects 
+- 🤔 I’m looking for help with fixing my coding addiction 
+- 💬 Ask me about web development 
+- 📫 How to reach me: kawsarkabir11@gmail.com 
+- ⚡ Fun fact: memes 
 
-- 👨‍💻 All of my projects are available at [kawsarkabir.com](kawsarkabir.com)
 
-- 💬 Ask me about **Html,Css,Bootstrap**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kawsarkabir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kawsarkabir/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/devkawsarkabir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/devkawsarkabir/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/devkawsarkabir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/kawsarkabir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](kawsarkabir.com)  
 
-- 📫 How to reach me **kawsarkabir11@gmail.com**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawsarkabir)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/kawsarkabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kawsarkabir" height="30" width="40" /></a>
-<a href="https://twitter.com/devkawsarkabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devkawsarkabir" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kawsarkabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kawsarkabir" height="30" width="40" /></a>
-<a href="https://fb.com/devkawsarkabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devkawsarkabir" height="30" width="40" /></a>
-<a href="https://instagram.com/devkawsarkabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devkawsarkabir" height="30" width="40" /></a>
-<a href="https://dribbble.com/kawsarkabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="kawsarkabir" height="30" width="40" /></a>
-<a href="https://www.behance.net/kawsarkabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kawsarkabir" height="30" width="40" /></a>
-<a href="https://medium.com/kawsarkabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="kawsarkabir" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kawsarkabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kawsarkabir" height="30" width="40" /></a>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kawsarkabir&show_icons=true)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kawsarkabir)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kawsarkabir&show_icons=true&locale=en&layout=compact" alt="kawsarkabir" /></p>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kawsarkabir)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kawsarkabir&show_icons=true&locale=en" alt="kawsarkabir" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kawsarkabir&" alt="kawsarkabir" /></p>
+![Profile views](https://gpvc.arturio.dev/kawsarkabir)  
