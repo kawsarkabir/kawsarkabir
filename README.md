@@ -1,6 +1,6 @@
  ### Hi there 👋, i am KAWSAR KABIR
 #### Programmer | Designer | Web Developer
-![Programmer | Designer | Web Developer](https://pbs.twimg.com/profile_banners/1495128278180724736/1657804037/1500x500)
+![Programmer | Designer | Web Developer] 
 
 I am web developer and content creator. I am a passionate tech lover, a problem solver & always ready to face new challenges.
 I always remember that something has to be done in life. Maybe, my thoughts will one day take me too far.
