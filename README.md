@@ -13,6 +13,5 @@ Skills: HTML / CSS / BOOTSTRAP / WORDPRESS
 - 🤔 I’m looking for help with fixing my coding addiction 
 - 💬 Ask me about web development 
 - 📫 How to reach me: kawsarkabir11@gmail.com 
-- ⚡ Fun fact: memes 
-- 
+- ⚡ Fun fact: memes
 ![Profile views](https://gpvc.arturio.dev/kawsarkabir)  
