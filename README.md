@@ -1,7 +1,6 @@
 ![KAWSAR KABIR](https://pbs.twimg.com/profile_banners/1495128278180724736/1657804037/1500x500)
 ## 💫 About Me :
-I am web developer and content creator. I am a passionate tech lover, a problem solver & always ready to face new challenges.
-I always remember that something has to be done in life. Maybe, my thoughts will one day take me too far. <br>
+Hello, my name is kawsar kabir, and I am a web developer looking to start my career in the field. Although I do not have any professional experience, I have completed coursework in Programming Hero, and I have worked on several personal projects that have allowed me to apply my skills. I am passionate about programming and enjoy learning about new technologies and techniques. I am looking for opportunities to further develop my skills and gain experience in a professional setting.<br>
 
 🌱 I’m currently learning a full stack development<br>👯 I’m looking to collaborate on Open source projects<br>🤔 I’m looking for help with fixing my coding addiction<br>💬 Ask me about web development<br>📫 How to reach me: devkawsarkabir@gmail.com<br>⚡ Fun fact:  coding memes
 
