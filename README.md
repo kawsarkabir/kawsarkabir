@@ -1,4 +1,4 @@
-![KAWSAR KABIR](https://twitter.com/devkawsarkabir/header_photo)
+![KAWSAR KABIR](https://pbs.twimg.com/profile_banners/1495128278180724736/1676649510/1500x500)
 ## 💫 About Me :
 Hello, my name is kawsar kabir, and I am a web developer looking to start my career in the field. Although I do not have any professional experience, I have completed coursework in Programming Hero, and I have worked on several personal projects that have allowed me to apply my skills. I am passionate about programming and enjoy learning about new technologies and techniques. I am looking for opportunities to further develop my skills and gain experience in a professional setting.<br>
 
