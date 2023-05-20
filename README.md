@@ -4,7 +4,7 @@
 
 Hello, my name is kawsar kabir, and I am a web developer looking to start my career in the field. Although I do not have any professional experience, I have completed coursework in Programming Hero, and I have worked on several personal projects that have allowed me to apply my skills. I am passionate about programming and enjoy learning about new technologies and techniques. I am looking for opportunities to further develop my skills and gain experience in a professional setting.<br>
 
-🌱 I’m currently learning a full stack development<br>👯 I’m looking to collaborate on Open source projects<br>🤔 I’m looking for help with fixing my coding addiction<br>💬 Ask me about web development<br>📫 How to reach me: devkawsarkabir@gmail.com<br>⚡ Fun fact: yeyo yeyo 
+🌱 I’m currently learning a full stack development<br>👯 I’m looking to collaborate on Open source projects<br>🤔 I’m looking for help with fixing my coding addiction<br>💬 Ask me about web development<br>📫 How to reach me: devkawsarkabir@gmail.com<br>⚡ Fun fact: I am handsome programmer 😎
 
 ## 🌐 Connect with me :
 
