@@ -2,7 +2,7 @@
 
 ## 💫 About Me :
 
-👋 Hello, I'm [KAWSAR KABIR]!
+👋 Hello, I'm KAWSAR KABIR!
 
 🚀 Aspiring Frontend Developer passionate about creating dynamic and user-friendly web experiences. I'm excited to contribute my skills to projects that push the boundaries of what can be achieved on the web.
 
@@ -24,9 +24,9 @@
 - Possessing strong analytical skills and a keen eye for detail, I enjoy tackling problems head-on and continually expanding my problem-solving toolkit.
 
 📫 Let's Connect:
-- Feel free to reach out to me through email at [devkawsarkabir@gmail.com].
-- Check out my portfolio website [kawsarkabir.com] to see some of my projects and learn more about me.
-- Connect with me on LinkedIn [https://linkedin.com/in/kawsarkabir] for professional networking.
+- Feel free to reach out to me through email at devkawsarkabir@gmail.com.
+- Check out my portfolio website kawsarkabir.com to see some of my projects and learn more about me.
+- Connect with me on LinkedIn https://linkedin.com/in/kawsarkabir for professional networking.
 
 ✨ Let's collaborate and build amazing web experiences together! I'm open to exciting opportunities and ready to contribute to impactful projects.
 
