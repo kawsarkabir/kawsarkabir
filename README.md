@@ -2,33 +2,7 @@
 
 ## 💫 About Me :
 
-👋 Hello, I'm KAWSAR KABIR !
-
-🚀 Aspiring Frontend Developer passionate about creating dynamic and user-friendly web experiences. I'm excited to contribute my skills to projects that push the boundaries of what can be achieved on the web.
-
-💻 Skills:
-- Proficient in HTML, CSS, and JavaScript, with a focus on writing clean and maintainable code.
-- Familiarity with frontend frameworks like React and Angular, and experience with tools like Webpack and Gulp.
-- Strong understanding of responsive design principles and cross-browser compatibility.
-
-🔨 Experience:
-- Currently expanding my skillset through personal projects and online courses, continuously honing my frontend development abilities.
-- Actively involved in the open-source community, making contributions and learning from other developers.
-
-🌱 Learning Journey:
-- I've completed various online courses and certifications to strengthen my knowledge, and I'm committed to staying updated with the latest frontend technologies and best practices.
-- Always eager to explore emerging trends, such as performance optimization and accessibility, to create better user experiences.
-
-💡 Problem-Solving Approach:
-- I thrive on solving complex challenges, breaking them down into manageable steps, and finding innovative solutions.
-- Possessing strong analytical skills and a keen eye for detail, I enjoy tackling problems head-on and continually expanding my problem-solving toolkit.
-
-📫 Let's Connect:
-- Feel free to reach out to me through email at devkawsarkabir@gmail.com.
-- Check out my portfolio website kawsarkabir.com to see some of my projects and learn more about me.
-- Connect with me on <a href="https://linkedin.com/in/kawsarkabir">Linkedin</a> for professional networking.
-
-✨ Let's collaborate and build amazing web experiences together! I'm open to exciting opportunities and ready to contribute to impactful projects.
+Hello, my name is kawsar kabir, and I am a web developer looking to start my career in the field. Although I do not have any professional experience, But I have worked on several personal projects that have allowed me to apply my skills. I am passionate about programming and enjoy learning about new technologies and techniques. I am looking for opportunities to further develop my skills and gain experience in a professional setting.
 
 ## 🌐 Connect with me :
 
