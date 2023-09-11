@@ -1,54 +1,21 @@
-
-
 <!-- ![KAWSAR KABIR](https://pbs.twimg.com/profile_banners/1495128278180724736/1676649510/1500x500) -->
 
 ![KAWSAR KABIR](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZrcWdycHlvYndzNXc3ZWJwc3dzeWcwbTVia2Y2YjdidTV1d2N0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
-<!-- ## 💫 About Me : -->
+# Hello, I'm KAWSAR KABIR 👋
 
-<!-- Hello, my name is kawsar kabir, and I am a web developer looking to start my career in the field. Although I do not have any professional experience, But I have worked on several personal projects that have allowed me to apply my skills. I am passionate about programming and enjoy learning about new technologies and techniques. I am looking for opportunities to further develop my skills and gain experience in a professional setting. -->
-# Hello, I'm [Your Name] 👋
-
-I'm passionate about front-end development and creating captivating web experiences. As a newcomer to the world of web development, I'm on a journey to learn, grow, and contribute to exciting projects.
+Hello, my name is kawsar kabir, and I am a web developer looking to start my career in the field. Although I do not have any professional experience, But I have worked on several personal projects that have allowed me to apply my skills. I am passionate about programming and enjoy learning about new technologies and techniques. I am looking for opportunities to further develop my skills and gain experience in a professional setting.
 
 ## 🚀 My Skills
 
 - **Languages**: HTML, CSS, JavaScript
-- **Front-end Frameworks/Libraries**: [Frameworks/Libraries you've learned]
+- **Front-end Frameworks/Libraries**: React
 - **Version Control**: Git, GitHub
 - **Responsive Web Design**
 - **Web Accessibility**
 - **Basic UI/UX Principles**
 - **Problem Solving**
 - **Continuous Learning**
-
-## 💼 Projects
-
-I'm working on building my portfolio of projects to showcase my skills and progress. Here are a few of my recent projects:
-
-- [Project 1 Name](Link to Project 1 GitHub Repository) - Short project description.
-- [Project 2 Name](Link to Project 2 GitHub Repository) - Short project description.
-- [Project 3 Name](Link to Project 3 GitHub Repository) - Short project description.
-
-## 🌱 Learning Journey
-
-I believe in continuous learning, and I'm currently focused on:
-
-- Expanding my knowledge of [Technology/Framework/Concept].
-- Improving my problem-solving skills through coding challenges.
-- Collaborating with other developers to gain real-world experience.
-
-## 📫 Let's Connect
-
-I'm excited to connect with fellow developers and mentors. Feel free to reach out to me:
-
-- LinkedIn: [Your LinkedIn Profile URL]
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- Email: [Your Email Address]
-
-Let's learn, build, and grow together! 🌟
-
-
 
 ## 🌐 Connect with me :
 
