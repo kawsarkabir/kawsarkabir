@@ -1,6 +1,6 @@
  <div style="text-align: center;">
         <img width="800px" height="450px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZrcWdycHlvYndzNXc3ZWJwc3dzeWcwbTVia2Y2YjdidTV1d2N0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt=""> <br>
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+&size=22&pause=106&center=true&vCenter=true&width=435&lines=Programmer;Designer;Developer" alt="Typing SVG" />
+        <a align ='center' href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+&size=22&pause=106&center=true&vCenter=true&width=435&lines=Programmer;Designer;Developer" alt="Typing SVG" />
         </a>
     </div>
 
@@ -31,3 +31,7 @@ Hello, my name is kawsar kabir, and I am a web developer looking to start my car
 
 ![](https://github-readme-stats.vercel.app/api?username=kawsarkabir&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kawsarkabir&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mdmarufsarker&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mdmarufsarker&layout=compact&langs_count=8&theme=algolia"/>
+</p>
