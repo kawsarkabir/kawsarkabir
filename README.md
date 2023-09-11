@@ -1,7 +1,10 @@
 <!-- ![KAWSAR KABIR](https://pbs.twimg.com/profile_banners/1495128278180724736/1676649510/1500x500) -->
 
 ![KAWSAR KABIR](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZrcWdycHlvYndzNXc3ZWJwc3dzeWcwbTVia2Y2YjdidTV1d2N0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=+&size=22&pause=106&center=true&vCenter=true&width=435&lines=Programmer;Designer;Developer)](https://git.io/typing-svg)
+<div align=center>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+&size=22&pause=106&center=true&vCenter=true&width=435&lines=Programmer;Designer;Developer" alt="Typing SVG" />
+        </a>
+</div>
 
 ## About Me
 
