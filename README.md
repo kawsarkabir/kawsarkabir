@@ -6,7 +6,68 @@
 
 ## 💫 About Me :
 
-Hello, my name is kawsar kabir, and I am a web developer looking to start my career in the field. Although I do not have any professional experience, But I have worked on several personal projects that have allowed me to apply my skills. I am passionate about programming and enjoy learning about new technologies and techniques. I am looking for opportunities to further develop my skills and gain experience in a professional setting.
+<!-- Hello, my name is kawsar kabir, and I am a web developer looking to start my career in the field. Although I do not have any professional experience, But I have worked on several personal projects that have allowed me to apply my skills. I am passionate about programming and enjoy learning about new technologies and techniques. I am looking for opportunities to further develop my skills and gain experience in a professional setting. -->
+# Kawsar Kabir - Web Developer
+
+## Introduction
+
+Hello, I'm Kawsar Kabir, a passionate web developer eager to start my career in the field. While I may not have professional experience yet, I have dedicated my time to working on personal projects, expanding my knowledge, and honing my skills. This README serves as an introduction to who I am and what I bring to the table.
+
+## About Me
+
+- **Name:** kawsar Kabir
+- **Location:** [Gazipur, Dhaka Bangladesh]
+- **Email:** [devkawsarkabir@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/kawsarkabir/]
+- **GitHub:** [https://github.com/kawsarkabir]
+- **Portfolio:** [kawsarkabir.com]
+
+## Skills
+
+I am proficient in the following technologies and programming languages:
+
+- HTML
+- CSS
+- Bootstrap
+- Tailwind
+- Sass
+- JavaScript
+- React
+
+## Projects
+
+Here are some of the personal projects I've worked on:
+
+1. **Project Name 1**
+   - Description: Briefly describe the project, including its purpose and features.
+   - GitHub Repository: [Link to GitHub Repo]
+   - Technologies Used: List the technologies/languages used.
+
+2. **Project Name 2**
+   - Description: Briefly describe the project, including its purpose and features.
+   - GitHub Repository: [Link to GitHub Repo]
+   - Technologies Used: List the technologies/languages used.
+
+3. **Project Name 3**
+   - Description: Briefly describe the project, including its purpose and features.
+   - GitHub Repository: [Link to GitHub Repo]
+   - Technologies Used: List the technologies/languages used.
+
+## Goals
+
+My career goals as a web developer include:
+
+- Gaining professional experience in web development.
+- Continuously learning and staying up-to-date with the latest technologies.
+- Collaborating with a team to create impactful web solutions.
+- Contributing to open-source projects and the web development community.
+
+## Contact
+
+I'm open to opportunities and collaborations. Feel free to reach out to me via email at [devkawsarkabir@gmail.com] or connect with me on LinkedIn.
+
+Thank you for taking the time to learn about me. I look forward to exploring the exciting world of web development and contributing my skills to meaningful projects.
+
 
 ## 🌐 Connect with me :
 
