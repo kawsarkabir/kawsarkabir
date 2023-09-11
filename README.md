@@ -2,7 +2,11 @@
 
 ![KAWSAR KABIR](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZrcWdycHlvYndzNXc3ZWJwc3dzeWcwbTVia2Y2YjdidTV1d2N0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
-# Hello, I'm KAWSAR KABIR 👋
+<p align="center">
+      <a href="https://github.com/DenverCoder1/readme-typing-svg"
+        ><img
+          src="https://readme-typing-svg.herokuapp.com?lines=Programmer;Designer;Developer;Content+Creator;"/></a>
+</p>
 
 Hello, my name is kawsar kabir, and I am a web developer looking to start my career in the field. Although I do not have any professional experience, But I have worked on several personal projects that have allowed me to apply my skills. I am passionate about programming and enjoy learning about new technologies and techniques. I am looking for opportunities to further develop my skills and gain experience in a professional setting.
 
