@@ -1,6 +1,10 @@
- <div style="text-align: center;">
+<!-- <div style="text-align: center;">
         <img width="810px" height="450px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZrcWdycHlvYndzNXc3ZWJwc3dzeWcwbTVia2Y2YjdidTV1d2N0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="">
-</div>
+</div> -->
+<p align="center">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kawsarkabir&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kawsarkabir&layout=compact&langs_count=8&theme=algolia"/>
+</p>
 <div align='center'>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+&size=22&pause=106&center=true&vCenter=true&width=435&lines=Programmer;Designer;Developer" alt="Typing SVG" />
 </a>
@@ -26,8 +30,8 @@
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-## 📊 GitHub Stats :
-<p align="center">
+<!-- ## 📊 GitHub Stats : -->
+<!-- <p align="center">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kawsarkabir&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kawsarkabir&layout=compact&langs_count=8&theme=algolia"/>
-</p>
+</p> -->
