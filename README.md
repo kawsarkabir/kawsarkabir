@@ -2,6 +2,15 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kawsarkabir&layout=compact&langs_count=8&theme=algolia"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kawsarkabir&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </p>
 
+ 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kawsarkabir&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kawsarkabir&theme=algolia&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kawsarkabir&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=kawsarkabir&icon=5&color=6)](https://visitcount.itsvg.in)
+ 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div align='center'>
