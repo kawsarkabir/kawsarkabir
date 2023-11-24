@@ -1,8 +1,12 @@
 <div align="center">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kawsarkabir&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kawsarkabir&layout=compact&langs_count=8&theme=algolia"/>
+<img height="180em" src="
+https://github-readme-stats.vercel.app/api/top-langs/?username=kawsarkabir&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
+<!-- [![](https://visitcount.itsvg.in/api?id=kawsarkabir&icon=5&color=6)](https://visitcount.itsvg.in) -->
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div align='center'>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+&size=22&pause=106&center=true&vCenter=true&width=435&lines=Programmer;Designer;Developer" alt="Typing SVG" />
 </a>
@@ -11,9 +15,9 @@
 
 ## 🚀 My Skills
 
-- **Languages**: HTML, CSS, Tailwind, Sass, JavaScript
-- **Front-end Frameworks/Libraries**: React
-- **Version Control**: Git, GitHub
+- **Languages**: HTML, CSS, Sass, JavaScript
+- **Front-end Frameworks/Libraries**: React, Tailwind, Bootstrap
+- **Version Control**: Git, Github
 - **Responsive Web Design**
 - **Web Accessibility**
 - **Basic UI/UX Principles**
