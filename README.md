@@ -10,7 +10,19 @@
 <P>Hello, my name is kawsar kabir, and I am a web developer looking to start my career in the field. Although I do not have any professional experience, But I have worked on several personal projects that have allowed me to apply my skills. I am passionate about programming and enjoy learning about new technologies and techniques. I am looking for opportunities to further develop my skills and gain experience in a professional setting.</P>
 </div>
 
-## 🚀 My Skills
+
+## Current Overview
+ 
+#### 🥅 Goals of 2024 - Typescript, Express, Mongoose,Redis, Redux ,Next.js ,DBMS,SQL ,PostgreSQL, AWS, Docker, Unit Testing 
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
+
+#### 🤝 I’m looking - To collaborate on open-source projects
+
+#### 🧣 I’m currently - Learning Next Js 
+
+#### 💤 Fun fact - Still thinking.. 
+
+<!-- ## 🚀 My Skills
 
 - **Languages**: HTML, CSS, Sass, JavaScript
 - **Front-end Frameworks/Libraries**: React, Tailwind, Bootstrap
@@ -19,7 +31,7 @@
 - **Web Accessibility**
 - **Basic UI/UX Principles**
 - **Problem Solving**
-- **Continuous Learning**
+- **Continuous Learning** -->
 
 ## 🌐 Connect with me :
 
