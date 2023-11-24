@@ -1,7 +1,8 @@
-<p align="center">
+<div align="center">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kawsarkabir&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</p>
-<!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kawsarkabir&layout=compact&langs_count=8&theme=algolia"/> -->
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kawsarkabir&layout=compact&langs_count=8&theme=algolia"/>
+</div>
+
 <div align='center'>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+&size=22&pause=106&center=true&vCenter=true&width=435&lines=Programmer;Designer;Developer" alt="Typing SVG" />
 </a>
