@@ -3,7 +3,8 @@
 </div>
 
 <div align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+&size=22&pause=106&center=true&vCenter=true&width=460&lines=Front-end Developer;React Developer;MERN Stack Developer;Passonate For Software Enginner" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+&weight=700&size=22&pause=106&center=true&vCenter=true&width=460&lines=Front-end Developer;React Developer;MERN Stack Developer;Passionate For Software Engineer" alt="Typing SVG" />
+
 </a>
 
 <P>Hello, my name is kawsar kabir, and I am a web developer looking to start my career in the field. Although I do not have any professional experience, But I have worked on several personal projects that have allowed me to apply my skills. I am passionate about programming and enjoy learning about new technologies and techniques. I am looking for opportunities to further develop my skills and gain experience in a professional setting.</P>
