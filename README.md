@@ -1,8 +1,5 @@
 <div align="center" >
-    <div>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kawsarkabir&theme=github_dark" height="180em">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kawsarkabir&theme=github_dark" height="180em">
-    </div>
+     <img src="https://i.ibb.co/XDC6dNY/github-banner.png"/>
 </div>
 
 <div align='center'>
