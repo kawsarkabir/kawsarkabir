@@ -1,5 +1,5 @@
 <div align="center" >
-     <img src="https://i.ibb.co/3Ry1BGW/Untitled-design-1.png"/>
+     <img src="https://i.ibb.co/XDC6dNY/github-banner.png"/>
 </div>
 
 <div align='center'>
