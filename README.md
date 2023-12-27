@@ -1,5 +1,6 @@
 <div align="center" >
-     <img src="https://i.ibb.co/XDC6dNY/github-banner.png"/>
+     <!-- <img src="https://i.ibb.co/XDC6dNY/github-banner.png"/> -->
+     <img  src = "https://i.ibb.co/ZmyrBVs/final-github-banner.png"/>
 </div>
 
 <div align='center'>
