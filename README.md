@@ -19,7 +19,7 @@
 
 #### 🤝 I’m looking - To collaborate on open-source projects
 
-#### 🧣 I’m currently - Learning Next Js 
+#### 🧣 I’m currently - Learning Deep Dive in React
 
 #### 💤 Fun fact - Still thinking..
 
@@ -58,7 +58,7 @@
  
 </div>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kawsarkabir&theme=github_dark" width="98%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kawsarkabir&theme=github_dark" width="99%">
 </div>
 
 <!-- ---------- -->
