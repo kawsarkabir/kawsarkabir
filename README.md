@@ -52,13 +52,13 @@
 
 <div align="center" >
 <div>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kawsarkabir&theme=github_dark" width="32.5%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kawsarkabir&theme=github_dark" width="32.5%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kawsarkabir&theme=github_dark&utcOffset=8" width="32.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kawsarkabir&theme=github_dark" width="32.7%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kawsarkabir&theme=github_dark" width="32.7%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kawsarkabir&theme=github_dark&utcOffset=8" width="32.7%">
  
 </div>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kawsarkabir&theme=github_dark" width="99%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kawsarkabir&theme=github_dark" width="100%">
 </div>
 
 <!-- ---------- -->
