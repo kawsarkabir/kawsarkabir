@@ -1,5 +1,4 @@
 <div align="center" >
-     <!-- <img src="https://i.ibb.co/XDC6dNY/github-banner.png"/> -->
      <img  src = "https://i.ibb.co/RPhhkYf/github-banner.png"/>
 </div>
 
@@ -13,13 +12,13 @@
 
 ## Current Overview
 
-#### 🥅 Goals of 2024 - Typescript, Express, Mongoose, Redis, Redux, Next.js, DBMS, SQL, PostgreSQL, AWS, Docker, Unit Testing
+#### 🥅 Goals of 2024 - Typescript, Express, Mongoose, Redis, Redux, Next.js, DBMS, SQL, PostgreSQL, AWS, Docker, Unit Testing 
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" />
 
 #### 🤝 I’m looking - To collaborate on open-source projects
 
-#### 🧣 I’m currently - Learning Deep Dive in React
+#### 🧣 I’m currently - Learning Deep Dive into React
 
 #### 💤 Fun fact - Still thinking..
 
@@ -40,9 +39,6 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40"/> | <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40"/> | <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="40"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="vs-code" width="40"/>
 -|-|-|-|-
 
-<!-- ## 🌐 Connect with me :
-
-[![Facebook](https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465)](https://facebook.com/devkawsarkabir) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/devkawsarkabir) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kawsarkabir) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/devkawsarkabir) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@kawsarkabir) -->
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kawsarkabir) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kawsarkabir) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/devkawsarkabir) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devkawsarkabir) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/devkawsarkabir) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@kawsarkabir) 
@@ -61,6 +57,5 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kawsarkabir&theme=github_dark" width="100%">
 </div>
 
-<!-- ---------- -->
 
 
