@@ -3,7 +3,7 @@
 </div>
 
 <div align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+&weight=700&size=22&pause=106&center=true&vCenter=true&width=460&lines=Front-end Developer;React Developer;MERN Stack Developer;Passionate For Software Engineer" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+&weight=700&size=22&pause=106&center=true&vCenter=true&width=460&lines=Front-end Developer;React Developer;NextJS Developer;Passionate For Software Engineer" alt="Typing SVG" />
 
 </a>
 
@@ -47,14 +47,12 @@
 ## Current Stats 
 
 <div align="center" >
-<div>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kawsarkabir&theme=github_dark" width="33%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kawsarkabir&theme=github_dark" width="33%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kawsarkabir&theme=github_dark&utcOffset=8" width="33%">
- 
-</div>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kawsarkabir&theme=github_dark" width="100%">
+     <div>
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kawsarkabir&theme=github_dark" width="33%">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kawsarkabir&theme=github_dark" width="33%">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kawsarkabir&theme=github_dark&utcOffset=8" width="33%">
+     </div>
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kawsarkabir&theme=github_dark" width="100%">
 </div>
 
 
