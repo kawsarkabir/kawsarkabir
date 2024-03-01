@@ -20,7 +20,8 @@
 
 #### 🧣 I’m currently - Learning Deep Dive into React
 
-#### 💤 Fun fact - My girlfriend left me because I'm always coding! Looks like my relationship status is stuck in an endless debugging loop.
+#### 💤 Fun fact - My girlfriend left me cz I'm always coding! Maybe, my relationship status is stuck in an endless debugging loop.
+
 <!-- I had a beautiful girlfriend she left me cz whole day I do code -->
 <!-- My girlfriend left me because I'm always coding! Looks like my relationship status is stuck in an endless debugging loop. -->
 
