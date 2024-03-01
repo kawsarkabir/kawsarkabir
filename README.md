@@ -20,7 +20,7 @@
 
 #### 🧣 I’m currently - Learning Deep Dive into React
 
-#### 💤 Fun fact - Still thinking..
+#### 💤 Fun fact - I had a beautiful girlfriend she left me cz whole day I do code
 
 ## 💻 Technologies That I Know
 
