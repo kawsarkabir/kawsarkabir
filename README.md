@@ -20,7 +20,7 @@
 
 #### 🧣 I’m currently - Learning Deep Dive into React
 
-#### 💤 Fun fact - My girlfriend left me cz I'm always coding! Maybe, my relationship status is stuck in an endless debugging loop.
+#### 💤 Fun fact - My girlfriend left me cz I'm always coding! Maybe, my relationship status is stuck in infinity loop.
 
 <!-- I had a beautiful girlfriend she left me cz whole day I do code -->
 <!-- My girlfriend left me because I'm always coding! Looks like my relationship status is stuck in an endless debugging loop. -->
@@ -42,6 +42,24 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40"/> | <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40"/> | <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="40"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="vs-code" width="40"/>
 -|-|-|-|-
  -->
+## :chart_with_upwards_trend: Current Stats
+
+<div align="center" >
+     <div>
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kawsarkabir&theme=github_dark" width="33%">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kawsarkabir&theme=github_dark" width="33%">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kawsarkabir&theme=github_dark&utcOffset=8" width="33%">
+     </div>
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kawsarkabir&theme=github_dark" width="100%">
+</div>
+
+## :mailbox: Reach me out
+
+<br />
+
+[<p align="center"><img height="75" src="./images/Linkedin.png">](https://linkedin.com/in/kawsarkabir)[<img height="75" src="./images/Facebook.png">](https://www.facebook.com/devkawsarkabir)[<img height="75" src="./images/Twitter.png">](https://twitter.com/devkawsarkabir) </p>
+
+<br />
 
 ## :computer: Technologies that I know
 
@@ -133,25 +151,10 @@
   </tr>
 </table>
 
-## :mailbox: Reach me out
 
-<br />
-
-[<p align="center"><img height="75" src="./images/Linkedin.png">](https://linkedin.com/in/naimur-reza)[<img height="75" src="./images/Facebook.png">](https://www.facebook.com/imrezadadu)[<img height="75" src="./images/Twitter.png">](https://twitter.com/NaimurReza3) </p>
-
-<br />
  
 
-## :chart_with_upwards_trend: Current Stats
 
-<div align="center" >
-     <div>
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kawsarkabir&theme=github_dark" width="33%">
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kawsarkabir&theme=github_dark" width="33%">
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kawsarkabir&theme=github_dark&utcOffset=8" width="33%">
-     </div>
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kawsarkabir&theme=github_dark" width="100%">
-</div>
 
 
 
