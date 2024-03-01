@@ -20,7 +20,7 @@
 
 #### 🧣 I’m currently - Learning Deep Dive into React
 
-#### 💤 Fun fact - My girlfriend left me cz I'm always coding! Maybe, my relationship status is stuck in infinity loop.
+#### 💤 Fun fact - My beautiful girlfriend left me because I'm always coding!🙂
 
 <!-- I had a beautiful girlfriend she left me cz whole day I do code -->
 <!-- My girlfriend left me because I'm always coding! Looks like my relationship status is stuck in an endless debugging loop. -->
@@ -106,10 +106,10 @@
         <img src="https://skillicons.dev/icons?i=firebase" width="60" height="60" alt="Firebase" />
       <br>Firebase
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=appwrite" width="60" height="60" alt="Appwrite" />
       <br>Appwrite
-    </td>
+    </td> -->
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=figma" width="60" height="60" alt="Figma" />
       <br>Figma
@@ -118,18 +118,18 @@
         <img src="https://skillicons.dev/icons?i=netlify" width="60" height="60" alt="NextAuth" />
       <br>Netlify
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgresql" width="60" height="60" alt="PostgreSQL" />
       <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
+    </td> -->
+    <!-- <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=py" alt="Python" width="60" height="60" />
       <br>Python
-    </td>
-    <td align="center" width="96">
+    </td> -->
+    <!-- <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=prisma" width="60" height="60" alt="Prisma" />
       <br>Prisma
-    </td>
+    </td> -->
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" width="60" height="60" />
       <br>Tailwind CSS
@@ -138,8 +138,6 @@
         <img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" alt="Bootstrap" />
       <br>Bootstrap
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML5" />
       <br>HTML5
