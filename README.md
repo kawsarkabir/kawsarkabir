@@ -10,7 +10,7 @@
 <P>Frontend Developer with hands-on experience in JavaScript, React.js, and Next.js. Known for crafting high-quality, visually appealing web applications. Excited about shifting to remote work and keen to utilize my technical skills to contribute effectively to distributed teams. Ready to bring an extra dose of enthusiasm and innovation to your projects.</P>
 </div>
 
-## Current Overview
+ ## :eyes: Current overview
 
 #### 🥅 Goals of 2024 - Typescript, Express, Mongoose, Redis, Redux, Next.js, DBMS, SQL, PostgreSQL, AWS, Docker, Unit Testing 
 
@@ -25,7 +25,7 @@
 <!-- I had a beautiful girlfriend she left me cz whole day I do code -->
 <!-- My girlfriend left me because I'm always coding! Looks like my relationship status is stuck in an endless debugging loop. -->
 
-## 💻 Technologies That I Know
+<!-- ## 💻 Technologies That I Know
 
 ### ⚡Frontend
 
@@ -41,13 +41,108 @@
 
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40"/> | <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40"/> | <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="40"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="vs-code" width="40"/>
 -|-|-|-|-
+ -->
 
+## :computer: Technologies that I know
 
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kawsarkabir) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kawsarkabir) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/devkawsarkabir) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devkawsarkabir) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/devkawsarkabir) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@kawsarkabir) 
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" alt="React" width="60" height="60" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="60" height="60" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="60" height="60" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60" height="60" />
+      <br>Node JS
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="60" height="60" />
+      <br>Rest API
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="60" height="60" />
+      <br>Next JS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="60" height="60" />
+      <br>Express JS
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="60" height="60" />
+      <br>VSCode
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=firebase" width="60" height="60" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=appwrite" width="60" height="60" alt="Appwrite" />
+      <br>Appwrite
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="60" height="60" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=netlify" width="60" height="60" alt="NextAuth" />
+      <br>Netlify
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="60" height="60" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=py" alt="Python" width="60" height="60" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=prisma" width="60" height="60" alt="Prisma" />
+      <br>Prisma
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" width="60" height="60" />
+      <br>Tailwind CSS
+    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS" />
+      <br>CSS3
+    </td>
+  </tr>
+</table>
+
+## :mailbox: Reach me out
+
+<br />
+
+[<p align="center"><img height="75" src="./images/Linkedin.png">](https://linkedin.com/in/naimur-reza)[<img height="75" src="./images/Facebook.png">](https://www.facebook.com/imrezadadu)[<img height="75" src="./images/Twitter.png">](https://twitter.com/NaimurReza3) </p>
+
+<br />
  
 
-## Current Stats 
+## :chart_with_upwards_trend: Current Stats
 
 <div align="center" >
      <div>
