@@ -12,15 +12,15 @@
 
  ## :eyes: Current overview
 
-#### 🥅 Goals of 2024 - Typescript, Express, Mongoose, Redis, Redux, Next.js, DBMS, SQL, PostgreSQL, AWS, Docker, Unit Testing 
+#### 🥅 Goals of 2024 - Typescript, Express, Mongoose, Redis, Redux, Next.js, DBMS, SQL, PostgreSQL, AWS, Docker
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" />
 
 #### 🤝 I’m looking - To collaborate on open-source projects
 
-#### 🧣 I’m currently - Learning Deep Dive into React
+#### 🧣 I’m currently - Learning Deep Dive into React 
 
-#### 💤 Fun fact - My beautiful girlfriend left me because I'm always coding!🙂
+#### 💤 Fun fact -   My beautiful girlfriend left me because whole day I do code!
 
 <!-- I had a beautiful girlfriend she left me cz whole day I do code -->
 <!-- My girlfriend left me because I'm always coding! Looks like my relationship status is stuck in an endless debugging loop. -->
@@ -118,21 +118,21 @@
         <img src="https://skillicons.dev/icons?i=netlify" width="60" height="60" alt="NextAuth" />
       <br>Netlify
     </td>
-    <!-- <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgresql" width="60" height="60" alt="PostgreSQL" />
       <br>PostgreSQL
-    </td> -->
-    <!-- <td align="center" width="96">
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=py" alt="Python" width="60" height="60" />
       <br>Python
-    </td> -->
+    </td>
     <!-- <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=prisma" width="60" height="60" alt="Prisma" />
       <br>Prisma
     </td> -->
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" width="60" height="60" />
-      <br>Tailwind CSS
+      <br>Tailwind
     </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" alt="Bootstrap" />
