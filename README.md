@@ -21,8 +21,6 @@
 #### 🧣 I’m currently - Learning Deep Dive into React 
 
 #### 💤 Fun fact -   My beautiful girlfriend left me because whole day I do code!
-
-<!-- I had a beautiful girlfriend she left me cz whole day I do code -->
 <!-- My girlfriend left me because I'm always coding! Looks like my relationship status is stuck in an endless debugging loop. -->
 
 
@@ -149,8 +147,6 @@
      </div>
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kawsarkabir&theme=github_dark" width="100%">
 </div>
-
-
  
 
 
