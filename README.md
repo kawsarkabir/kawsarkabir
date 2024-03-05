@@ -7,7 +7,7 @@
 
 </a>
 
-<P>Frontend Developer with hands-on experience in JavaScript, React.js, and Next.js. Known for crafting high-quality, visually appealing web applications. Excited about shifting to remote work and keen to utilize my technical skills to contribute effectively to distributed teams. Ready to bring an extra dose of enthusiasm and innovation to your projects.</P>
+<P>A passionate web developer with a strong skill set in JavaScript, React.js, Redux, TypeScript, NexjJS. I'm dedicated to crafting visually stunning and highly responsive websites with a keen eye for details and a commitment to clean, efficient code, I specialize in creating web experiences that leave a lasting impression.</P>
 </div>
 
  ## :eyes: Current overview
