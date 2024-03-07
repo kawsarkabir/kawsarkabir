@@ -12,13 +12,13 @@
 
  ## :eyes: Current overview
 
-#### 🥅 Goals of 2024 - Typescript, Express, Mongoose, Redis, Redux, Next.js, DBMS, SQL, PostgreSQL, AWS, Docker
+#### 🥅 Goals of 2024 - beecroud-100 problem solve, OOP-Java, Java Console Project, Java(GUI) & Database, DSA, Leetcode-100 problem solve
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" />
 
 #### 🤝 I’m looking - To collaborate on open-source projects
 
-#### 🧣 I’m currently - Learning Deep Dive into React 
+#### 🧣 I’m currently - Learning Deep Dive into beecroud-100 problem solve
 
 #### 💤 Fun fact -   My beautiful girlfriend left me because whole day I do code!
 <!-- My girlfriend left me because I'm always coding! Looks like my relationship status is stuck in an endless debugging loop. -->
