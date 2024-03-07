@@ -12,7 +12,7 @@
 
  ## :eyes: Current overview
 
-#### 🥅 Goals of 2024 - Beecroud-100 problem, OOP-Java, Java Console Project, Java(GUI) & Database, DSA, Leetcode-100 problem
+#### 🥅 Goals of 2024 - Beecroud-100 problem, OOP With Java, Java Console Project, Java(GUI) & Database, DSA, Leetcode-100 problem
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" />
 
@@ -55,7 +55,18 @@
 
 <br />
 
-[<p align="center"><img height="75" src="./images/Linkedin.png">](https://linkedin.com/in/kawsarkabir)[<img height="75" src="./images/Facebook.png">](https://www.facebook.com/devkawsarkabir)[<img height="75" src="./images/Twitter.png">](https://twitter.com/devkawsarkabir) </p>
+<p align="center">
+  <a href="https://linkedin.com/in/kawsarkabir">
+    <img height="75" src="./images/Linkedin.png">
+  </a>
+  <a href="https://www.facebook.com/devkawsarkabir">
+    <img height="75" src="./images/Facebook.png">
+  </a>
+  <a href="https://twitter.com/devkawsarkabir">
+    <img height="75" src="./images/Twitter.png">
+  </a>
+</p>
+
 
 <br />
 
@@ -64,16 +75,20 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" alt="React" width="60" height="60" />
-      <br>React
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="60" height="60" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=c" width="60" height="60" alt="PostgreSQL" />
+      <br>C
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="60" height="60" />
       <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=py" alt="Python" width="60" height="60" />
+      <br>Python
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60" />
@@ -94,40 +109,25 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="60" height="60" />
       <br>Express JS
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="60" height="60" />
-      <br>VSCode
-    </td>
+    
   </tr>
   <tr>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" alt="React" width="60" height="60" />
+      <br>React
+    </td>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redux" alt="React" width="60" height="60" />
+      <br>React
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=firebase" width="60" height="60" alt="Firebase" />
       <br>Firebase
     </td>
-    <!-- <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=appwrite" width="60" height="60" alt="Appwrite" />
-      <br>Appwrite
-    </td> -->
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=figma" width="60" height="60" alt="Figma" />
       <br>Figma
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=netlify" width="60" height="60" alt="NextAuth" />
-      <br>Netlify
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgresql" width="60" height="60" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=py" alt="Python" width="60" height="60" />
-      <br>Python
-    </td>
-    <!-- <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=prisma" width="60" height="60" alt="Prisma" />
-      <br>Prisma
-    </td> -->
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" width="60" height="60" />
       <br>Tailwind
@@ -137,12 +137,16 @@
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML5" />
-      <br>HTML5
+        <img src="https://skillicons.dev/icons?i=scss" width="60" height="60" alt="CSS" />
+      <br>Sass
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS" />
       <br>CSS3
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML5" />
+      <br>HTML5
     </td>
   </tr>
 </table>
