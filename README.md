@@ -55,17 +55,7 @@
 
 <br />
 
-<p align="center">
-  <a href="https://linkedin.com/in/kawsarkabir">
-    <img height="75" src="./images/Linkedin.png">
-  </a>
-  <a href="https://www.facebook.com/devkawsarkabir">
-    <img height="75" src="./images/Facebook.png">
-  </a>
-  <a href="https://twitter.com/devkawsarkabir">
-    <img height="75" src="./images/Twitter.png">
-  </a>
-</p>
+[<p align="center"><img height="75" src="./images/Linkedin.png">](https://linkedin.com/in/kawsarkabir)[<img height="75" src="./images/Facebook.png">](https://www.facebook.com/devkawsarkabir)[<img height="75" src="./images/Twitter.png">](https://twitter.com/devkawsarkabir) </p>
 
 
 <br />
