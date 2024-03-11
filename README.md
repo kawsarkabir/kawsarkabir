@@ -18,28 +18,11 @@
 
 #### 🤝 I’m looking - To collaborate on open-source projects
 
-#### 🧣 I’m currently - Learning Deep Dive into Beecrowd-200 problem solving
+#### 🧣 I'm currently - Learning Deep Dive into 200 problem solve in Beecrowd
 
 #### 💤 Fun fact -   My beautiful girlfriend left me because whole day I do code!
-<!-- My girlfriend left me because I'm always coding! Looks like my relationship status is stuck in an endless debugging loop. -->
 
-<!-- ## 💻 Technologies That I Know
 
-### ⚡Frontend
-
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"/> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" alt="next-js" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="material-ui" width="40"/>| 
--|-|-|-|-|-|-|-|-| 
-
-### ⚡Backend
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40"/> | <img src="https://skillicons.dev/icons?i=express" alt="express" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40"/> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"/> | <img src="https://i.ibb.co/hHDwKhD/pngwing-com.png" alt="firebase" width="35"/> | 
--|-|-|-|-|
-
-### ⚡Tools
-
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40"/> | <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40"/> | <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="40"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="vs-code" width="40"/>
--|-|-|-|-
- -->
 ## :chart_with_upwards_trend: Current Stats
 
 <div align="center" >
