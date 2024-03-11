@@ -20,7 +20,7 @@
 
 #### 🧣 I'm currently - Learning Deep Dive into 200 problem solve in Beecrowd
 
-#### 💤 Fun fact -   My beautiful girlfriend left me because whole day I do code!
+#### 💤 Fun fact -   My beautiful girlfriend left me because whole day I do code !
 
 
 ## :chart_with_upwards_trend: Current Stats
@@ -38,7 +38,7 @@
 
 <br/>
 
-***<p align="center"> [<img height="55" src="./images/website.png">](https://kawsarkabir.com)[<img height="55" src="./images/facebook.png">](https://www.facebook.com/devkawsarkabir)[<img height="55" src="./images/linkedin.png">](https://www.linkedin.com/in/kawsarkabir) </p>***
+***<p align="center"> [<img height="55" src="./images/website.png">](https://kawsarkabir.com) [<img height="55" src="./images/facebook.png">](https://www.facebook.com/devkawsarkabir) [<img height="55" src="./images/linkedin.png">](https://www.linkedin.com/in/kawsarkabir) </p>***
 
 <br/>
 
