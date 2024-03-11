@@ -89,8 +89,8 @@
       <br>React
     </td>
    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redux" alt="React" width="60" height="60" />
-      <br>React
+        <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="60" height="60" />
+      <br>Redux
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=firebase" width="60" height="60" alt="Firebase" />
