@@ -12,13 +12,13 @@
 
  ## :eyes: Current overview
 
-#### 🥅 Goals of 2024 - Beecrowd-100 problem, OOP With Java, Java Console Project, Java(GUI) & Database, DSA, Leetcode-100 problem
+#### 🥅 Goals of 2024 - Beecrowd-200 problem, OOP With Java, Java Console Project, Java(GUI) & Database, DSA, Leetcode-100 problem
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" />
 
 #### 🤝 I’m looking - To collaborate on open-source projects
 
-#### 🧣 I’m currently - Learning Deep Dive into Beecroud-100 problem solving
+#### 🧣 I’m currently - Learning Deep Dive into Beecrowd-200 problem solving
 
 #### 💤 Fun fact -   My beautiful girlfriend left me because whole day I do code!
 <!-- My girlfriend left me because I'm always coding! Looks like my relationship status is stuck in an endless debugging loop. -->
