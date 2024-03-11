@@ -36,12 +36,11 @@
 
 ## :mailbox: Reach me out
 
-<br />
+<br/>
 
-[<p align="center"><img height="75" src="./images/Linkedin.png">](https://linkedin.com/in/kawsarkabir)[<img height="75" src="./images/Facebook.png">](https://www.facebook.com/devkawsarkabir)[<img height="75" src="./images/Twitter.png">](https://twitter.com/devkawsarkabir) </p>
+***<p align="center"> [<img height="55" src="./images/website.png">](https://kawsarkabir.com)[<img height="55" src="./images/facebook.png">](https://www.facebook.com/devkawsarkabir)[<img height="55" src="./images/linkedin.png">](https://www.linkedin.com/in/kawsarkabir) </p>***
 
-
-<br />
+<br/>
 
 ## :computer: Technologies that I know
 
