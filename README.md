@@ -12,7 +12,7 @@
 
  ## :eyes: Current overview
 
-#### 🥅 Goals of 2024 - Beecrowd-200 problem, OOP With Java, Java Console Project, Java(GUI) & Database, DSA, Leetcode-100 problem
+#### 🥅 Goals of 2024 - Beecrowd-200 problem, OOP with Java, Java Console Project, Java(GUI) & Database, DSA, Leetcode-100 problem
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" />
 
