@@ -3,14 +3,12 @@
 </div>
 
 <div align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+&weight=700&size=22&pause=106&center=true&vCenter=true&width=460&lines=Front-end Developer;React Developer;NextJS Developer;Passionate For Software Engineer" alt="Typing SVG" />
-
-</a>
-
-<P>A passionate web developer with a strong skill set in JavaScript, React.js, Redux, TypeScript, NexjJS. I'm dedicated to crafting visually stunning and highly responsive websites with a keen eye for details and a commitment to clean, efficient code, I specialize in creating web experiences that leave a lasting impression.</P>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+&weight=800&size=22&pause=106&center=true&vCenter=true&width=460&lines=Programmer;Designer;Developer;" alt="Typing SVG" />
+  </a>
+  <P>A passionate web developer with a strong skill set in JavaScript, React.js, Redux, TypeScript, NexjJS. I'm dedicated to crafting visually stunning and highly responsive websites with a keen eye for details and a commitment to clean, efficient code, I specialize in creating web experiences that leave a lasting impression.</P>
 </div>
 
- ## :eyes: Current overview
+## :eyes: Current overview
 
 #### 🥅 Goals of 2024 - Beecrowd-200 problem, OOP with Java, Java Console Project, Java(GUI) & Database, DSA, Leetcode-100 problem
 
@@ -20,8 +18,7 @@
 
 #### 🧣 I'm currently - Learning Deep Dive into 200 problem solve in Beecrowd
 
-#### 💤 Fun fact -   My beautiful girlfriend left me because whole day I do code !
-
+#### 💤 Fun fact - My beautiful girlfriend left me because whole day I do code!
 
 ## :chart_with_upwards_trend: Current Stats
 
@@ -38,7 +35,7 @@
 
 <br/>
 
-***<p align="center"> [<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/website.png">](https://kawsarkabir.com)[<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/facebook.png">](https://www.facebook.com/devkawsarkabir)[<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/linkedin.png">](https://www.linkedin.com/in/kawsarkabir) </p>***
+**_<p align="center"> [<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/website.png">](https://kawsarkabir.com)[<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/facebook.png">](https://www.facebook.com/devkawsarkabir)[<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/linkedin.png">](https://www.linkedin.com/in/kawsarkabir) </p>_**
 
 <br/>
 
@@ -122,11 +119,3 @@
     </td>
   </tr>
 </table>
-
-
- 
-
-
-
-
-
