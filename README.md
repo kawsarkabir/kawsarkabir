@@ -3,8 +3,8 @@
 </div>
 
 <div align='center'>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+&weight=800&size=22&pause=106&center=true&vCenter=true&width=460&lines=Programmer;Designer;Developer;" alt="Typing SVG" />
-  </a>
+  <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+&weight=800&size=22&pause=106&center=true&vCenter=true&width=460&lines=Programmer;Designer;Developer;" alt="Typing SVG" />
+  </a> -->
   <P>A passionate web developer with a strong skill set in JavaScript, React.js, Redux, TypeScript, NexjJS. I'm dedicated to crafting visually stunning and highly responsive websites with a keen eye for details and a commitment to clean, efficient code, I specialize in creating web experiences that leave a lasting impression.</P>
 </div>
 
