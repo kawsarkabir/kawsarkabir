@@ -1,7 +1,7 @@
 <div align="center" >
      <img  src = "https://i.ibb.co/RPhhkYf/github-banner.png"/>
 </div>
-
+<br/>
 <div align='center'>
   <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+&weight=800&size=22&pause=106&center=true&vCenter=true&width=460&lines=Programmer;Designer;Developer;" alt="Typing SVG" />
   </a> -->
@@ -10,7 +10,7 @@
 
 ## :eyes: Current overview
 
-#### 🥅 Goals of 2024 - Beecrowd-200 problem, OOP with Java, Java Console Project, Java(GUI) & Database, DSA, Leetcode-100 problem
+#### 🥅 Goals of 2024 - Beecrowd-200 problem, OOP, DSA, Codeforces-500+ problem, Leetcode-100 problem, 
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" />
 
