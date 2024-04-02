@@ -1,16 +1,15 @@
 <div align="center" >
      <img  src = "https://i.ibb.co/RPhhkYf/github-banner.png"/>
 </div>
-<br/>
-<div align='center'>
+<!-- <div align='center'>
   <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+&weight=800&size=22&pause=106&center=true&vCenter=true&width=460&lines=Programmer;Designer;Developer;" alt="Typing SVG" />
   </a> -->
   <!-- <P>A passionate web developer with a strong skill set in JavaScript, React.js, Redux, TypeScript, NexjJS. I'm dedicated to crafting visually stunning and highly responsive websites with a keen eye for details and a commitment to clean, efficient code, I specialize in creating web experiences that leave a lasting impression.</P> -->
-</div>
+</div> -->
 
 ## :eyes: Current overview
 
-#### 🥅 Goals of 2024 - Beecrowd-200 problem, DSA, OOP, Codeforces-500+ problem, Leetcode-100 problem
+#### 🥅 Goals of 2024 - Typescript, Express, Mongoose, Advanced React, Redux, DMS, Prisma and PostgreSQL, Nextjs, AWS, Docker
 
 <div align="left">
  <a href="https://app.daily.dev/kawsarkabir"><img align="right" src="https://api.daily.dev/devcards/v2/jNzsi9NSoX9kenVUG7RKP.png?type=default&r=fha" width="200" alt="KAWSAR KABIR's Dev Card"/></a>
@@ -20,6 +19,8 @@
 #### 🤝 I’m looking - To collaborate on open-source projects
 
 #### 🧣 I'm currently - Learning Deep Dive into 200 problem solve in Beecrowd
+
+### 🤔 I’m trying - To help people learn web development. 
 
 #### 💤 Fun fact - My beautiful girlfriend left me because whole day I do code!
 
