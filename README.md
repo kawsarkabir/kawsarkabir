@@ -13,22 +13,6 @@
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kawsarkabir&theme=github_dark" width="100%">
 </div>
 
-## :eyes: Current overview
-
-#### 🥅 Goals of 2024 - Typescript, Express, Mongoose, Advanced React, Redux, DMS, Prisma and PostgreSQL, Nextjs, AWS, Docker
-
-<div align="left">
- <a href="https://app.daily.dev/kawsarkabir"><img align="right" src="https://api.daily.dev/devcards/v2/jNzsi9NSoX9kenVUG7RKP.png?type=default&r=fha" width="160" alt="KAWSAR KABIR's Dev Card"/></a>
-</div>
-
-#### 🤝 I’m looking - To collaborate on open-source projects
-
-#### 🧣 I'm currently - Learning Deep Dive into Typescript
-
-#### 🤔 I’m trying - To help people learn web development.
-
-#### 💤 Fun fact - My beautiful girlfriend left me because whole day I do code!
-
 ## :mailbox: Reach me out
 
 <br/>
@@ -117,3 +101,19 @@
     </td>
   </tr>
 </table>
+
+## :eyes: Current overview
+
+#### 🥅 Goals of 2024 - Typescript, Express, Mongoose, Advanced React, Redux, DMS, Prisma and PostgreSQL, Nextjs, AWS, Docker
+
+<div align="left">
+ <a href="https://app.daily.dev/kawsarkabir"><img align="right" src="https://api.daily.dev/devcards/v2/jNzsi9NSoX9kenVUG7RKP.png?type=default&r=fha" width="200" alt="KAWSAR KABIR's Dev Card"/></a>
+</div>
+
+#### 🤝 I’m looking - To collaborate on open-source projects
+
+#### 🧣 I'm currently - Learning Deep Dive into Typescript
+
+#### 🤔 I’m trying - To help people learn web development.
+
+#### 💤 Fun fact - My beautiful girlfriend left me because whole day I do code!
