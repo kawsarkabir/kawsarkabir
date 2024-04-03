@@ -1,5 +1,5 @@
 <div align="center" >
-     <img  src = "https://i.ibb.co/RPhhkYf/github-banner.png"/>
+     <img  src = "./images/github banner.png"/>
 </div>
 
 ## :chart_with_upwards_trend: Current Stats
@@ -26,20 +26,20 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="60" height="60" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=c" width="60" height="60" alt="PostgreSQL" />
       <br>C
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cpp" alt="Python" width="60" height="60" />
+      <br>C++
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="60" height="60" />
       <br>TypeScript
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=py" alt="Python" width="60" height="60" />
-      <br>Python
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="60" height="60" />
+      <br>JavaScript
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60" />
@@ -107,7 +107,7 @@
 #### 🥅 Goals of 2024 - Typescript, Express, Mongoose, Advanced React, Redux, DMS, Prisma and PostgreSQL, Nextjs, AWS, Docker
 
 <div align="left">
- <a href="https://app.daily.dev/kawsarkabir"><img align="right" src="https://api.daily.dev/devcards/v2/jNzsi9NSoX9kenVUG7RKP.png?type=default&r=fha" width="200" alt="KAWSAR KABIR's Dev Card"/></a>
+ <a href="https://app.daily.dev/kawsarkabir"><img align="right" src="https://api.daily.dev/devcards/v2/jNzsi9NSoX9kenVUG7RKP.png?type=default&r=xfh" width="200" alt="KAWSAR KABIR's Dev Card"/></a>
 </div>
 
 #### 🤝 I’m looking - To collaborate on open-source projects
