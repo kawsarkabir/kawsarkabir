@@ -1,5 +1,5 @@
 <div align="center" >
-     <img  src = "./images/github banner.png"/>
+     <img  src = "./images/KAWSAR-KABIR-A-Frontend-Developer.png"/>
 </div>
 
 ## :chart_with_upwards_trend: Current Stats
