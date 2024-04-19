@@ -105,7 +105,7 @@
 
 ## :eyes: Current overview
 
-#### 🥅 Goals of 2024 - Typescript, Express, Mongoose, Advanced React, Redux, DMS, Prisma and PostgreSQL, Nextjs, AWS, Docker
+#### 🥅 Goals of 2024 - Typescript, Express, Mongoose, Redux, RDMS, Prisma and PostgreSQL, Nextjs, AWS, Docker
 
 <div align="left">
  <a href="https://app.daily.dev/kawsarkabir"><img align="right" src="https://api.daily.dev/devcards/v2/jNzsi9NSoX9kenVUG7RKP.png?type=default&r=xfh" width="220" alt="KAWSAR KABIR's Dev Card"/></a>
