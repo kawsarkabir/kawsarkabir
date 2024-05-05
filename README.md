@@ -6,11 +6,11 @@
 
 <div align="center" >
      <div>
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kawsarkabir&theme=github_dark" width="33%">
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kawsarkabir&theme=github_dark" width="33%">
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kawsarkabir&theme=github_dark&utcOffset=8" width="33%">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kawsarkabir&theme=midnight_purple" width="33%">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kawsarkabir&theme=midnight_purple" width="33%">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kawsarkabir&theme=midnight_purple&utcOffset=8" width="33%">
      </div>
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kawsarkabir&theme=github_dark" width="100%">
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kawsarkabir&theme=midnight_purple" width="100%">
 </div>
 
 ## :mailbox: Reach me out
