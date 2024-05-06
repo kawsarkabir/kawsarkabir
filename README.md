@@ -6,7 +6,7 @@
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mir-hussain&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=kawsarkabir&theme=midnight_purple&hide_border=true&background=0D1117&stroke=0D1117&fire=#a993fe&sideLabels=#9e51b9&currStreakNum=#a993fe&ring=#a993fe&currStreakLabel=#a993fe&sideNums=#9e51b9" />
 </p>
 
 ## :mailbox: Reach me out
@@ -100,7 +100,7 @@
 
 ## :eyes: Current overview
 
-#### 🥅 Goals of 2024 - Typescript, Express, Mongoose, Redux, RDMS, Prisma and PostgreSQL, Nextjs, AWS, Docker
+#### 🥅 Goals of 2024 - Typescript, Express, Mongoose, Redux, Nextjs, RDMS, Prisma and PostgreSQL, Docker, AWS
 
 <div align="left">
  <a href="https://app.daily.dev/kawsarkabir"><img align="right" src="https://api.daily.dev/devcards/v2/jNzsi9NSoX9kenVUG7RKP.png?type=default&r=xfh" width="220" alt="KAWSAR KABIR's Dev Card"/></a>
