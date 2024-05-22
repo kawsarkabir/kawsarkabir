@@ -24,8 +24,9 @@
 
 <br />
 <p align="center">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=kawsarkabir&theme=midnight_purple&hide_border=true&background=0D1117&stroke=0D1117&fire=#a993fe&sideLabels=#9e51b9&currStreakNum=#a993fe&ring=#a993fe&currStreakLabel=#a993fe&sideNums=#9e51b9" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawsarkabir&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="50%"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=kawsarkabir&theme=midnight_purple&hide_border=true&background=0D1117&stroke=0D1117&fire=#a993fe&sideLabels=#9e51b9&currStreakNum=#a993fe&ring=#a993fe&currStreakLabel=#a993fe&sideNums=#9e51b9" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kawsarkabir&layout=compact&langs_count=10&theme=midnight-purple" width="48%" />
+
 
 </p>
 
