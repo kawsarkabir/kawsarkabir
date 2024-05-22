@@ -2,12 +2,21 @@
      <img  src = "./images/KAWSAR-KABIR-A-Frontend-Developer.png"/>
 </div>
 
-## :chart_with_upwards_trend: Current Stats
+## :eyes: Current overview
 
-<br />
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=kawsarkabir&theme=midnight_purple&hide_border=true&background=0D1117&stroke=0D1117&fire=#a993fe&sideLabels=#9e51b9&currStreakNum=#a993fe&ring=#a993fe&currStreakLabel=#a993fe&sideNums=#9e51b9" />
-</p>
+#### 🥅 Goals of 2024 - Typescript, Express, Mongoose, Redux, Nextjs, RDMS, Prisma and PostgreSQL, Docker, AWS
+
+<div align="left">
+ <a href="https://app.daily.dev/kawsarkabir"><img align="right" src="https://api.daily.dev/devcards/v2/jNzsi9NSoX9kenVUG7RKP.png?type=default&r=xfh" width="220" alt="KAWSAR KABIR's Dev Card"/></a>
+</div>
+
+#### 🤝 I’m looking - To collaborate on open-source projects
+
+#### 🧣 I'm currently - Learning Deep Dive into Mongoose
+
+#### 🤔 I’m trying - To help people learn web development.
+
+#### 💤 Fun fact - My beautiful girlfriend left me because whole day I do code!
 
 ## :mailbox: Reach me out
 
@@ -16,6 +25,13 @@
 **_<p align="center"> [<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/website.png">](https://kawsarkabir.com)[<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/facebook.png">](https://www.facebook.com/devkawsarkabir)[<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/linkedin.png">](https://www.linkedin.com/in/kawsarkabir) </p>_**
 
 <br/>
+
+## :chart_with_upwards_trend: Current Stats
+
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=kawsarkabir&theme=midnight_purple&hide_border=true&background=0D1117&stroke=0D1117&fire=#a993fe&sideLabels=#9e51b9&currStreakNum=#a993fe&ring=#a993fe&currStreakLabel=#a993fe&sideNums=#9e51b9" />
+</p>
 
 ## :computer: Technologies that I know
 
@@ -97,19 +113,3 @@
     </td>
   </tr>
 </table>
-
-## :eyes: Current overview
-
-#### 🥅 Goals of 2024 - Typescript, Express, Mongoose, Redux, Nextjs, RDMS, Prisma and PostgreSQL, Docker, AWS
-
-<div align="left">
- <a href="https://app.daily.dev/kawsarkabir"><img align="right" src="https://api.daily.dev/devcards/v2/jNzsi9NSoX9kenVUG7RKP.png?type=default&r=xfh" width="220" alt="KAWSAR KABIR's Dev Card"/></a>
-</div>
-
-#### 🤝 I’m looking - To collaborate on open-source projects
-
-#### 🧣 I'm currently - Learning Deep Dive into Typescript
-
-#### 🤔 I’m trying - To help people learn web development.
-
-#### 💤 Fun fact - My beautiful girlfriend left me because whole day I do code!
