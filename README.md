@@ -4,21 +4,21 @@
 
 ## :eyes: Current overview
 
-#### 🥅 Goals of 2024 - Typescript, Express, Mongoose, Redux, Nextjs, RDMS, Prisma and PostgreSQL, Docker, AWS
+### 🥅 Goals of 2024 - Typescript, Express, Mongoose, Redux, Nextjs, RDMS, Prisma and PostgreSQL, Docker, AWS
 
 <div align="left">
  <a href="https://app.daily.dev/kawsarkabir"><img align="right" src="https://api.daily.dev/devcards/v2/jNzsi9NSoX9kenVUG7RKP.png?type=default&r=xfh" width="180" alt="KAWSAR KABIR's Dev Card"/></a>
 </div>
 
-#### 🧣 I'm currently - Learning Deep Dive into Express and Mongoose
+### 🧣 I'm currently - Learning Deep Dive into Express and Mongoose
 
-#### 🌱 In my free time, I’m exploring - UX Design
+### 🌱 In my free time, I’m exploring - UX Design
 
-#### 🤝 I’m looking - To collaborate on open-source projects
+### 🤝 I’m looking - To collaborate on open-source projects
 
-#### 🤔 I’m trying - To help people learn web development
+### 🤔 I’m trying - To help people learn web development
 
-#### 💤 Fun fact - My beautiful girlfriend left me because whole day I do code!
+### 💤 Fun fact - My beautiful girlfriend left me because whole day I do code!
 
 ## :mailbox: Reach me out
 
