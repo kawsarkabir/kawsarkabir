@@ -12,7 +12,15 @@
 
 #### 🤝 I’m looking - To collaborate on open-source projects
 
-#### 🧣 I'm currently - Learning Deep Dive into Mongoose
+#### 🧣 I'm currently - Learning Deep Dive into Express
+
+#### 🤔 I’m trying - To help people learn web development.
+
+#### 💤 Fun fact - My beautiful girlfriend left me because whole day I do code!
+
+#### 🤝 I’m looking - To collaborate on open-source projects
+
+#### 🧣 I'm currently - Learning Deep Dive into Express
 
 #### 🤔 I’m trying - To help people learn web development.
 
