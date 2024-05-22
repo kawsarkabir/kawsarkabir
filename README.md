@@ -18,7 +18,16 @@
 
 #### 🤝 I’m looking - To collaborate on open-source projects
 
-#### 💤 Fun fact - My beautiful girlfriend left me because whole day I do code! :-P
+#### 💤 Fun fact - My beautiful GF left me because whole day I do code :-D
+
+## :chart_with_upwards_trend: Current Stats
+
+<br />
+<p align="center">
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=kawsarkabir&theme=midnight_purple&hide_border=true&background=0D1117&stroke=0D1117&fire=#a993fe&sideLabels=#9e51b9&currStreakNum=#a993fe&ring=#a993fe&currStreakLabel=#a993fe&sideNums=#9e51b9" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawsarkabir&layout=compact&langs_count=10&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="45%"/>
+
+</p>
 
 ## :mailbox: Reach me out
 
@@ -27,13 +36,6 @@
 **_<p align="center"> [<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/website.png">](https://kawsarkabir.com)[<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/facebook.png">](https://www.facebook.com/devkawsarkabir)[<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/linkedin.png">](https://www.linkedin.com/in/kawsarkabir) </p>_**
 
 <br/>
-
-## :chart_with_upwards_trend: Current Stats
-
-<br />
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=kawsarkabir&theme=midnight_purple&hide_border=true&background=0D1117&stroke=0D1117&fire=#a993fe&sideLabels=#9e51b9&currStreakNum=#a993fe&ring=#a993fe&currStreakLabel=#a993fe&sideNums=#9e51b9" />
-</p>
 
 ## :computer: Technologies that I know
 
