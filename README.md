@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/kawsarkabir">
-    <img src="./images/banner.svg" style="border: 0" />
+    <img src="./images/cover.svg"/>
 </a>
 
 ## :eyes: Current overview
