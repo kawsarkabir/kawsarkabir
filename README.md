@@ -1,6 +1,6 @@
-<div align="center" >
-     <img  src = "./images/KAWSAR-KABIR-A-Frontend-Developer.png"/>
-</div>
+<a href="https://www.linkedin.com/in/kawsarkabir">
+<img src="./images/banner.svg" />
+</a>
 
 ## :eyes: Current overview
 
@@ -24,7 +24,7 @@
 
 <br />
 <p align="center">
-  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com?user=kawsarkabir&theme=midnight_purple&hide_border=true&background=0D1117&stroke=0D1117&fire=#a993fe&sideLabels=#9e51b9&currStreakNum=#a993fe&ring=#a993fe&currStreakLabel=#a993fe&sideNums=#9e51b9" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=kawsarkabir&theme=midnight_purple&hide_border=true&background=0D1117&stroke=0D1117&fire=#a993fe&sideLabels=#9e51b9&currStreakNum=#a993fe&ring=#a993fe&currStreakLabel=#a993fe&sideNums=#9e51b9" />
 
 </p>
 
@@ -32,7 +32,7 @@
 
 <br/>
 
-**_<p align="center"> [<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/website.png">](https://kawsarkabir.com)[<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/facebook.png">](https://www.facebook.com/devkawsarkabir)[<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/linkedin.png">](https://www.linkedin.com/in/kawsarkabir) </p>_**
+**_<p align="center"> [<img height="55" src="./images/website.png">](https://kawsarkabir.com)[<img height="55" src="./images/Facebook.png">](https://www.facebook.com/devkawsarkabir)[<img height="55" src="./images/Linkedin.png">](https://www.linkedin.com/in/kawsarkabir) </p>_**
 
 <br/>
 
