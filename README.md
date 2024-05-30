@@ -29,11 +29,11 @@
 
 ## :mailbox: Reach me out
 
-<br />
+<br/>
 
-[<p align="center"><img height="75" src="https://github.com/kawsarkabir/kawsarkabir/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://github.com/kawsarkabir/kawsarkabir/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/kawsarkabir/kawsarkabir/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_)
+**_<p align="center"> [<img height="55" src="./images/icons/website.png">](https://kawsarkabir.com)[<img height="55" src="./images/icons/facebook.png">](https://www.facebook.com/devkawsarkabir)[<img height="55" src="./images/icons/linkedin.png">](https://www.linkedin.com/in/kawsarkabir) </p>_**
 
-<br />
+<br/>
 
 ## :computer: Technologies that I know
 
