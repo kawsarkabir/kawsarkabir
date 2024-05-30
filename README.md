@@ -24,17 +24,16 @@
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=kawsarkabir&theme=midnight_purple&hide_border=true&background=0D1117&stroke=0D1117&fire=#a993fe&sideLabels=#9e51b9&currStreakNum=#a993fe&ring=#a993fe&currStreakLabel=#a993fe&sideNums=#9e51b9" />
-
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=kawsarkabir&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
 ## :mailbox: Reach me out
 
-<br/>
+<br />
 
-**_<p align="center"> [<img height="55" src="./images/website.png">](https://kawsarkabir.com)[<img height="55" src="./images/Facebook.png">](https://www.facebook.com/devkawsarkabir)[<img height="55" src="./images/Linkedin.png">](https://www.linkedin.com/in/kawsarkabir) </p>_**
+[<p align="center"><img height="75" src="https://github.com/kawsarkabir/kawsarkabir/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://github.com/kawsarkabir/kawsarkabir/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/kawsarkabir/kawsarkabir/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_)
 
-<br/>
+<br />
 
 ## :computer: Technologies that I know
 
