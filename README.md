@@ -40,14 +40,6 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=c" width="60" height="60" alt="PostgreSQL" />
-      <br>C
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cpp" alt="Python" width="60" height="60" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="60" height="60" />
       <br>TypeScript
     </td>
@@ -57,7 +49,7 @@
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60" />
-      <br>MongoDB
+      <br>Mongoose
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60" height="60" />
@@ -69,12 +61,16 @@
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="60" height="60" />
-      <br>Next JS
+      <br>Next.js
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="60" height="60" alt="PostgreSQL" />
+      <br>PostgreSQL
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="60" height="60" />
-      <br>Express JS
-    
+      <br>Express 
+    </td>
   </tr>
   <tr>
    <td align="center" width="96">
