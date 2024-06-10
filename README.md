@@ -71,6 +71,10 @@
         <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="60" height="60" />
       <br>Express 
     </td>
+    <td align="center" width="96">
+        <img src="./images/icons/shadcnui.png" alt="Express.js" width="60" height="60" />
+      <br>shadcn/ui
+    </td>
   </tr>
   <tr>
    <td align="center" width="96">
