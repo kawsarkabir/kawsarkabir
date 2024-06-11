@@ -20,8 +20,12 @@
 
 #### 💤 Fun fact - My beautiful GF left me because whole day I do code :-D
 
+<br/>
+
 ### :book: My recent blog posts
-<!-- BLOG-POST-LIST:START --> 
+
+<!-- BLOG-POST-LIST:START -->
+
 - [Essential MongoDB Operators: A Guide to Effective Data Management Ep_01](https://www.linkedin.com/pulse/insertone-insertmany-find-findone-mongodb-kawsar-kabir-sk4ic/)
 - [Essential MongoDB Operators: A Guide to Effective Data Management Ep_02](https://shorturl.at/JpbPV)
 - [Exciting React Project Showcase for Beginners!](https://dev.to/kawsarkabir/exciting-react-project-showcase-for-beginners-32ca)
