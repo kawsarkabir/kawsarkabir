@@ -22,14 +22,13 @@
 
 <br/>
 
-### :book: My recent blog posts
-
-<!-- BLOG-POST-LIST:START -->
+## :book: My recent blog posts
 
 - [Essential MongoDB Operators: A Guide to Effective Data Management Ep_01](https://www.linkedin.com/pulse/insertone-insertmany-find-findone-mongodb-kawsar-kabir-sk4ic/)
 - [Essential MongoDB Operators: A Guide to Effective Data Management Ep_02](https://shorturl.at/JpbPV)
 - [Exciting React Project Showcase for Beginners!](https://dev.to/kawsarkabir/exciting-react-project-showcase-for-beginners-32ca)
-<!-- BLOG-POST-LIST:END -->
+
+<br/>
 
 ## :chart_with_upwards_trend: Current Stats
 
