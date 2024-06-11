@@ -20,6 +20,14 @@
 
 #### 💤 Fun fact - My beautiful GF left me because whole day I do code :-D
 
+## :book: My recent blog posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Essential MongoDB Operators: A Guide to Effective Data Management Ep_01](https://www.linkedin.com/pulse/insertone-insertmany-find-findone-mongodb-kawsar-kabir-sk4ic/)
+- [Essential MongoDB Operators: A Guide to Effective Data Management Ep_02](https://shorturl.at/JpbPV)
+- [Exciting React Project Showcase for Beginners!](https://dev.to/kawsarkabir/exciting-react-project-showcase-for-beginners-32ca)
+<!-- BLOG-POST-LIST:END -->
+
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
@@ -34,13 +42,6 @@
 **_<p align="center"> [<img height="55" src="./images/icons/website.png">](https://kawsarkabir.com)[<img height="55" src="./images/icons/facebook.png">](https://www.facebook.com/devkawsarkabir)[<img height="55" src="./images/icons/linkedin.png">](https://www.linkedin.com/in/kawsarkabir) </p>_**
 
 <br/>
-
-## :book: My recent blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Exciting React Project Showcase for Beginners!](https://dev.to/kawsarkabir/exciting-react-project-showcase-for-beginners-32ca)
-- [ssential MongoDB Operators: A Guide to Effective Data Management Ep-01](https://www.linkedin.com/pulse/insertone-insertmany-find-findone-mongodb-kawsar-kabir-sk4ic/)
-- [Essential MongoDB Operators: A Guide to Effective Data Management Ep-02](https://shorturl.at/JpbPV)
-<!-- BLOG-POST-LIST:END -->
 
 ## :computer: Technologies that I know
 
