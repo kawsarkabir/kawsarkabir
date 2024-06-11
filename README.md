@@ -35,6 +35,13 @@
 
 <br/>
 
+## :book: My recent blog posts
+<!-- BLOG-POST-LIST:START -->
+- [Exciting React Project Showcase for Beginners!](https://dev.to/kawsarkabir/exciting-react-project-showcase-for-beginners-32ca)
+- [ssential MongoDB Operators: A Guide to Effective Data Management Ep-01](https://www.linkedin.com/pulse/insertone-insertmany-find-findone-mongodb-kawsar-kabir-sk4ic/)
+- [Essential MongoDB Operators: A Guide to Effective Data Management Ep-02](https://shorturl.at/JpbPV)
+<!-- BLOG-POST-LIST:END -->
+
 ## :computer: Technologies that I know
 
 <table align="center">
