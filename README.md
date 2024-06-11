@@ -72,7 +72,7 @@
       <br>Express 
     </td>
    <td align="center" width="96">
-        <img src="./images/icons/shadcnui.png" alt="shadcn/ui logo" style="border-radius: 15px;" width="60" height="60" />
+        <img src="./images/icons/shadcnui.png" alt="shadcn/ui logo" width="60" height="60" />
       <br>shadcn/ui
    </td>
   </tr>
