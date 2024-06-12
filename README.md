@@ -6,10 +6,6 @@
 
 #### 🥅 Goals of 2024 - Typescript, Express, Mongoose, Redux, Nextjs, RDMS, Prisma and PostgreSQL, Docker, AWS
 
-<div align="left">
- <a href="https://app.daily.dev/kawsarkabir"><img align="right" src="https://api.daily.dev/devcards/v2/jNzsi9NSoX9kenVUG7RKP.png?type=default&r=xfh" width="170" alt="KAWSAR KABIR's Dev Card"/></a>
-</div>
-
 #### 🧣 I'm currently - Learning Deep Dive into Express and Mongoose
 
 #### 🌱 In my free time, I’m exploring - UX Design
