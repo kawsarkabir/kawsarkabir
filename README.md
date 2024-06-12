@@ -115,7 +115,7 @@
 ## :book: My recent blog posts
 
 <div align="left">
-<a href="https://app.daily.dev/kawsarkabir"><img align="right" src="https://api.daily.dev/devcards/v2/jNzsi9NSoX9kenVUG7RKP.png?type=default&r=xfh" width="170" alt="KAWSAR KABIR's Dev Card"/></a>
+<a href="https://app.daily.dev/kawsarkabir"><img align="right" src="https://api.daily.dev/devcards/v2/jNzsi9NSoX9kenVUG7RKP.png?type=default&r=xfh" width="200" alt="KAWSAR KABIR's Dev Card"/></a>
 </div>
 
 - [Essential MongoDB Operators: A Guide to Effective Data Management Ep_01](https://www.linkedin.com/pulse/insertone-insertmany-find-findone-mongodb-kawsar-kabir-sk4ic/)
