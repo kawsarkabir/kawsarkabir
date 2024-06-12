@@ -6,6 +6,8 @@
 
 #### 🥅 Goals of 2024 - Typescript, Express, Mongoose, Redux, Nextjs, RDMS, Prisma and PostgreSQL, Docker, AWS
 
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="35%" />
+
 #### 🧣 I'm currently - Learning Deep Dive into Express and Mongoose
 
 #### 🌱 In my free time, I’m exploring - UX Design
