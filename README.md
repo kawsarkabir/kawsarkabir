@@ -4,7 +4,7 @@
 
 ## :eyes: Current overview
 
-<img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="25%" />
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="25%" />
 
 #### 🥅 Goals of 2024 - Typescript, Express, Mongoose, Redux, Nextjs, RDMS, Prisma and PostgreSQL, Docker, AWS
 
