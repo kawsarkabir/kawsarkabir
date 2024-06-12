@@ -31,17 +31,6 @@
 
 <br/>
 
-## :book: My recent blog posts
-
-<div align="left">
-<a href="https://app.daily.dev/kawsarkabir"><img align="right" src="https://api.daily.dev/devcards/v2/jNzsi9NSoX9kenVUG7RKP.png?type=default&r=xfh" width="170" alt="KAWSAR KABIR's Dev Card"/></a>
-</div>
-
-- [Essential MongoDB Operators: A Guide to Effective Data Management Ep_01](https://www.linkedin.com/pulse/insertone-insertmany-find-findone-mongodb-kawsar-kabir-sk4ic/)
-- [Essential MongoDB Operators: A Guide to Effective Data Management Ep_02](https://shorturl.at/JpbPV)
-- [Essential MongoDB Operators: A Guide to Effective Data Management Ep_03](https://www.linkedin.com/pulse/nin-implicit-mongodb-example-kawsar-kabir-eafrc/)
-- [Essential MongoDB Operators: A Guide to Effective Data Management Ep_04](https://www.linkedin.com/pulse/exists-type-size-mongodb-example-kawsar-kabir-molee/?trackingId=WrOtW0JlTcSiBx5Z03PO%2Fw%3D%3D)
-
 ## :computer: Technologies that I know
 
 <table align="center">
@@ -122,3 +111,14 @@
     </td>
   </tr>
 </table>
+
+## :book: My recent blog posts
+
+<div align="left">
+<a href="https://app.daily.dev/kawsarkabir"><img align="right" src="https://api.daily.dev/devcards/v2/jNzsi9NSoX9kenVUG7RKP.png?type=default&r=xfh" width="170" alt="KAWSAR KABIR's Dev Card"/></a>
+</div>
+
+- [Essential MongoDB Operators: A Guide to Effective Data Management Ep_01](https://www.linkedin.com/pulse/insertone-insertmany-find-findone-mongodb-kawsar-kabir-sk4ic/)
+- [Essential MongoDB Operators: A Guide to Effective Data Management Ep_02](https://shorturl.at/JpbPV)
+- [Essential MongoDB Operators: A Guide to Effective Data Management Ep_03](https://www.linkedin.com/pulse/nin-implicit-mongodb-example-kawsar-kabir-eafrc/)
+- [Essential MongoDB Operators: A Guide to Effective Data Management Ep_04](https://www.linkedin.com/pulse/exists-type-size-mongodb-example-kawsar-kabir-molee/?trackingId=WrOtW0JlTcSiBx5Z03PO%2Fw%3D%3D)
