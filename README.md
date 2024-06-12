@@ -114,18 +114,18 @@
 
 ## :book: My Recent Blog Posts
 
-<div>
-  <div style="float: left; width: 70%;">
-    <ul>
-      <li><a href="https://www.linkedin.com/pulse/insertone-insertmany-find-findone-mongodb-kawsar-kabir-sk4ic/">Essential MongoDB Operators: A Guide to Effective Data Management Ep_01</a></li>
-      <li><a href="https://shorturl.at/JpbPV">Essential MongoDB Operators: A Guide to Effective Data Management Ep_02</a></li>
-      <li><a href="https://www.linkedin.com/pulse/nin-implicit-mongodb-example-kawsar-kabir-eafrc/">Essential MongoDB Operators: A Guide to Effective Data Management Ep_03</a></li>
-      <li><a href="https://www.linkedin.com/pulse/exists-type-size-mongodb-example-kawsar-kabir-molee/?trackingId=WrOtW0JlTcSiBx5Z03PO%2Fw%3D%3D">Essential MongoDB Operators: A Guide to Effective Data Management Ep_04</a></li>
-    </ul>
-  </div>
-  <div style="float: right; width: 30%;">
-    <a href="https://app.daily.dev/kawsarkabir"><img src="https://api.daily.dev/devcards/v2/jNzsi9NSoX9kenVUG7RKP.png?type=default&r=xfh" width="170" alt="KAWSAR KABIR's Dev Card"/></a>
-  </div>
-</div>
-
-<div style="clear: both;"></div>
+<table>
+  <tr>
+    <td style="vertical-align: top;">
+      <ul>
+        <li><a href="https://www.linkedin.com/pulse/insertone-insertmany-find-findone-mongodb-kawsar-kabir-sk4ic/">Essential MongoDB Operators: A Guide to Effective Data Management Ep_01</a></li>
+        <li><a href="https://shorturl.at/JpbPV">Essential MongoDB Operators: A Guide to Effective Data Management Ep_02</a></li>
+        <li><a href="https://www.linkedin.com/pulse/nin-implicit-mongodb-example-kawsar-kabir-eafrc/">Essential MongoDB Operators: A Guide to Effective Data Management Ep_03</a></li>
+        <li><a href="https://www.linkedin.com/pulse/exists-type-size-mongodb-example-kawsar-kabir-molee/?trackingId=WrOtW0JlTcSiBx5Z03PO%2Fw%3D%3D">Essential MongoDB Operators: A Guide to Effective Data Management Ep_04</a></li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <a href="https://app.daily.dev/kawsarkabir"><img src="https://api.daily.dev/devcards/v2/jNzsi9NSoX9kenVUG7RKP.png?type=default&r=xfh" width="170" alt="KAWSAR KABIR's Dev Card"/></a>
+    </td>
+  </tr>
+</table>
