@@ -122,4 +122,4 @@
 - [Essential MongoDB Operators: A Guide to Effective Data Management Ep_02](https://shorturl.at/JpbPV)
 - [Essential MongoDB Operators: A Guide to Effective Data Management Ep_03](https://www.linkedin.com/pulse/nin-implicit-mongodb-example-kawsar-kabir-eafrc/)
 - [Essential MongoDB Operators: A Guide to Effective Data Management Ep_04](https://www.linkedin.com/pulse/exists-type-size-mongodb-example-kawsar-kabir-molee/?trackingId=WrOtW0JlTcSiBx5Z03PO%2Fw%3D%3D)
-- [🎯 Cracking the Frontend Developer Interview: What You Need to Know](https://dev.to/kawsarkabir/cracking-the-frontend-developer-interview-what-you-need-to-know-3fp2)
+- [Cracking the Frontend Developer Interview: What You Need to Know](https://dev.to/kawsarkabir/cracking-the-frontend-developer-interview-what-you-need-to-know-3fp2)
