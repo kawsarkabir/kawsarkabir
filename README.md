@@ -14,7 +14,7 @@
 
 #### 🤝 I’m looking - To collaborate on open-source projects
 
-#### 💤 Fun fact - My beautiful GF left me because whole day I do code :-D
+#### 💤 Fun fact - My beautiful girlfriend left me because whole day I do code :-D
 
 ## :chart_with_upwards_trend: Current Stats
 
@@ -117,6 +117,8 @@
 <div align="left">
 <a href="https://app.daily.dev/kawsarkabir"><img align="right" src="https://api.daily.dev/devcards/v2/jNzsi9NSoX9kenVUG7RKP.png?type=default&r=xfh" width="200" alt="KAWSAR KABIR's Dev Card"/></a>
 </div>
+
+<!-- blog start here  -->
 
 - [Essential MongoDB Operators: A Guide to Effective Data Management Ep_01](https://www.linkedin.com/pulse/insertone-insertmany-find-findone-mongodb-kawsar-kabir-sk4ic/)
 - [Essential MongoDB Operators: A Guide to Effective Data Management Ep_02](https://shorturl.at/JpbPV)
