@@ -14,7 +14,7 @@
 
 #### 🤝 I’m looking - To collaborate on open-source projects
 
-#### 💤 Fun fact - My beautiful girlfriend left me because whole day I do code :-D
+#### 💤 Fun fact - My beautiful gf left me because whole day I do code :)
 
 ## :chart_with_upwards_trend: Current Stats
 
@@ -115,7 +115,7 @@
 ## :book: My recent blog posts
 
 <div align="left">
-<a href="https://app.daily.dev/kawsarkabir"><img align="right" src="https://api.daily.dev/devcards/v2/jNzsi9NSoX9kenVUG7RKP.png?type=default&r=xfh" width="210" alt="KAWSAR KABIR's Dev Card"/></a>
+<a href="https://app.daily.dev/kawsarkabir"><img align="right" src="https://api.daily.dev/devcards/v2/jNzsi9NSoX9kenVUG7RKP.png?type=default&r=xfh" width="202" alt="KAWSAR KABIR's Dev Card"/></a>
 </div>
 
 <!-- blog start here  -->
