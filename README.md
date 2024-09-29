@@ -8,7 +8,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="23%" />
 
-#### 🧣 I'm currently - Learning Deep Dive into Redux
+#### 🧣 I'm currently - Learning Deep Dive into Advance JavaScript
 
 #### 🌱 In my free time, I’m exploring - Video Editing
 
