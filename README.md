@@ -4,7 +4,7 @@
 
 ## :eyes: Current overview
 
-#### 🥅 Comfort Zone - Typescript, Javascript, React, Redux, Nextjs, Nodejs, Express, MongoDB, Sass and Tailwind
+#### 🥅 Comfort Zone - Typescript, Javascript, React, Redux, Nextjs, Sass, Tailwind, Nodejs, Express, MongoDB
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="23%" />
 
