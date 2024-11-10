@@ -4,13 +4,13 @@
 
 ## :eyes: Current overview
 
-#### 🥅 Goals of 2024 - Typescript, Express, Mongoose, Redux, Nextjs, RDMS, Prisma and PostgreSQL, Docker, AWS
+#### 🥅 Comfort Zone - Typescript, Javascript, React, Redux, Nextjs, Nodejs, Express, MongoDB, Sass and Tailwind
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="23%" />
 
-#### 🧣 I'm currently - Learning Deep Dive into Advanced JavaScript
+#### 🧣 I'm currently - Learning Deep Dive into Advanced React & Nextjs
 
-#### 🌱 In my free time, I’m exploring - Video Editing
+#### 🌱 In my free time, I’m exploring - UI/UX Design
 
 #### 🤝 I’m looking - To collaborate on open-source projects
 
