@@ -27,7 +27,7 @@
 
 <br/>
 
-**_<p align="center"> [<img height="55" src="./images/icons/website.png">](https://kawsarkabir.com)[<img height="55" src="./images/icons/facebook.png">](https://www.facebook.com/devkawsarkabir)[<img height="55" src="./images/icons/linkedin.png">](https://www.linkedin.com/in/kawsarkabir) </p>_**
+**_<p align="center"> [<img height="55" src="./images/icons/website.png">](https://kawsarkabir.vercel.app)[<img height="55" src="./images/icons/facebook.png">](https://www.facebook.com/devkawsarkabir)[<img height="55" src="./images/icons/linkedin.png">](https://www.linkedin.com/in/kawsarkabir) </p>_**
 
 <br/>
 
@@ -120,9 +120,6 @@
 
 <!-- blog start here  -->
 
-- [Essential MongoDB Operators: A Guide to Effective Data Management Ep_01](https://www.linkedin.com/pulse/insertone-insertmany-find-findone-mongodb-kawsar-kabir-sk4ic/)
-- [Essential MongoDB Operators: A Guide to Effective Data Management Ep_02](https://shorturl.at/JpbPV)
-- [Essential MongoDB Operators: A Guide to Effective Data Management Ep_03](https://www.linkedin.com/pulse/nin-implicit-mongodb-example-kawsar-kabir-eafrc/)
-- [Essential MongoDB Operators: A Guide to Effective Data Management Ep_04](https://www.linkedin.com/pulse/exists-type-size-mongodb-example-kawsar-kabir-molee/?trackingId=WrOtW0JlTcSiBx5Z03PO%2Fw%3D%3D)
-- [Essential MongoDB Operators: A Guide to Effective Data Management Ep_05](https://dev.to/kawsarkabir/all-and-elemmatch-in-mongodb-4od6)
-- [Cracking the Frontend Developer Interview: Key Questions & Preparation Tips](https://dev.to/kawsarkabir/cracking-the-frontend-developer-interview-what-you-need-to-know-3fp2)
+- [Understanding JavaScript Execution Context: Call Stack, Heap Memory](https://medium.com/@kawsarkabir/understanding-javascript-execution-context-call-stack-heap-memory-and-visualizing-code-execution-dfc3ab0a2f4f)
+- [What is React and How it works ?](https://medium.com/@kawsarkabir/what-is-react-and-how-it-works-9b799bceba0f)
+- [React-এর Virtual DOM, Reconciliation Algorithm, real DOM vs Virtual DOM](https://www.linkedin.com/pulse/nin-implicit-mongodb-example-kawsar-kabir-eafrc/)
