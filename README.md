@@ -27,7 +27,7 @@
 
 <br/>
 
-**_<p align="center"> [<img height="55" src="./images/icons/website.png">](https://kawsarkabir.vercel.app)[<img height="55" src="./images/icons/facebook.png">](https://www.facebook.com/devkawsarkabir)[<img height="55" src="./images/icons/linkedin.png">](https://www.linkedin.com/in/kawsarkabir) </p>_**
+**_<p align="center"> [<img height="55" src="./images/icons/website.png">](https://kawsarkabir.com)[<img height="55" src="./images/icons/facebook.png">](https://www.facebook.com/devkawsarkabir)[<img height="55" src="./images/icons/linkedin.png">](https://www.linkedin.com/in/kawsarkabir) </p>_**
 
 <br/>
 
@@ -120,6 +120,7 @@
 
 <!-- blog start here  -->
 
-- [Understanding JavaScript Execution Context: Call Stack, Heap Memory](https://medium.com/@kawsarkabir/understanding-javascript-execution-context-call-stack-heap-memory-and-visualizing-code-execution-dfc3ab0a2f4f)
-- [What is React and How it works ?](https://medium.com/@kawsarkabir/what-is-react-and-how-it-works-9b799bceba0f)
-- [React-এর Virtual DOM, Reconciliation Algorithm, real DOM vs Virtual DOM](https://www.linkedin.com/pulse/nin-implicit-mongodb-example-kawsar-kabir-eafrc/)
+-   [Understanding JavaScript Execution Context: Call Stack, Heap Memory](https://medium.com/@kawsarkabir/understanding-javascript-execution-context-call-stack-heap-memory-and-visualizing-code-execution-dfc3ab0a2f4f)
+-   [Hoisting এটা আবার কি 🤔? | Hoisting in JavaScript](https://medium.com/@kawsarkabir/hoisting-%E0%A6%8F%E0%A6%9F%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%BF-understanding-javascript-hoisting-70afcbc4bbb6)
+-   [What is React and How it works ?](https://medium.com/@kawsarkabir/what-is-react-and-how-it-works-9b799bceba0f)
+-   [React-এর Virtual DOM, Reconciliation Algorithm, real DOM vs Virtual DOM](https://medium.com/@kawsarkabir/react-%E0%A6%8F%E0%A6%B0-virtual-dom-concept-reconciliation-algorithm-benefits-of-using-it-and-comparison-with-05929f9a9545)
