@@ -4,13 +4,13 @@
 
 ## :eyes: Current overview
 
-#### 🥅 Comfort Zone - Typescript, Javascript, React, Redux, Nextjs, Sass, Tailwind, Nodejs, Express, MongoDB
+#### 🥅 Comfort Zone - Typescript, Javascript, React, Redux, Nextjs, ShadcnUI, Tailwind, Node, Express, Mongoose
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="23%" />
 
-#### 🧣 I'm currently - Learning Deep Dive into Advanced React & Nextjs
+#### 🧣 I'm currently - Learning Deep Dive into Advanced Backend
 
-#### 🌱 In my free time, I’m exploring - UI/UX Design
+#### 🌱 In my free time, I’m writing - blog on Medium
 
 #### 🤝 I’m looking - To collaborate on open-source projects
 
@@ -120,7 +120,8 @@
 
 <!-- blog start here  -->
 
--   [Understanding JavaScript Execution Context: Call Stack, Heap Memory](https://medium.com/@kawsarkabir/understanding-javascript-execution-context-call-stack-heap-memory-and-visualizing-code-execution-dfc3ab0a2f4f)
--   [Hoisting এটা আবার কি 🤔? | Hoisting in JavaScript](https://medium.com/@kawsarkabir/hoisting-%E0%A6%8F%E0%A6%9F%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%BF-understanding-javascript-hoisting-70afcbc4bbb6)
--   [What is React and How it works ?](https://medium.com/@kawsarkabir/what-is-react-and-how-it-works-9b799bceba0f)
--   [React-এর Virtual DOM, Reconciliation Algorithm, real DOM vs Virtual DOM](https://medium.com/@kawsarkabir/react-%E0%A6%8F%E0%A6%B0-virtual-dom-concept-reconciliation-algorithm-benefits-of-using-it-and-comparison-with-05929f9a9545)
+- [What Are Value & Reference in JavaScript?](https://medium.com/@kawsarkabir/what-are-value-reference-in-programming-f16cce742e31)
+- [Understanding JavaScript Execution Context: Call Stack, Heap Memory](https://medium.com/@kawsarkabir/understanding-javascript-execution-context-call-stack-heap-memory-and-visualizing-code-execution-dfc3ab0a2f4f)
+- [Hoisting এটা আবার কি? | Hoisting in JavaScript](https://medium.com/@kawsarkabir/hoisting-%E0%A6%8F%E0%A6%9F%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%BF-understanding-javascript-hoisting-70afcbc4bbb6)
+- [What is React and How it works ?](https://medium.com/@kawsarkabir/what-is-react-and-how-it-works-9b799bceba0f)
+- [React-এর Virtual DOM, Reconciliation Algorithm, real DOM vs Virtual DOM](https://medium.com/@kawsarkabir/react-%E0%A6%8F%E0%A6%B0-virtual-dom-concept-reconciliation-algorithm-benefits-of-using-it-and-comparison-with-05929f9a9545)
