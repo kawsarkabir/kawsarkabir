@@ -2,32 +2,30 @@
     <img src="./images/cover.svg"/>
 </a>
 
+<p>I am Kawsar Kabir, a Jr. Full-Stack Developer (MERN Stack). An Intellectually curious, self-motivated, and enthusiastic web developer with a deep interest in JavaScript. Seeking a challenging yet rewarding career with a progressive organization that provides the opportunity for development.
+</p>
+
 ## :eyes: Current overview
 
 #### 🥅 Comfort Zone - Typescript, Javascript, React, Redux, Nextjs, ShadcnUI, Tailwind, Node, Express, Mongoose
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="23%" />
 
-#### 🧣 I'm currently - Learning Deep Dive into Advanced Backend
+#### 💼 Currently working on DEV ZeroOne, a full-stack MERN project.
 
-#### 🌱 In my free time, I’m writing - blog on Medium
+#### 🧣 Currently learning deep dive into advanced backend.
 
-#### 🤝 I’m looking - To collaborate on open-source projects
+#### 🌱 In my free time, I’m writing blogs on Medium.
+
+#### 🤝 I’m looking to collaborate on open-source projects.
 
 #### 💤 Fun fact - My beautiful gf left me because whole day I do code :)
-
-## :chart_with_upwards_trend: Current Stats
-
-<br />
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=kawsarkabir&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-</p>
 
 ## :mailbox: Reach me out
 
 <br/>
 
-**_<p align="center"> [<img height="55" src="./images/icons/website.png">](https://kawsarkabir.com)[<img height="55" src="./images/icons/facebook.png">](https://www.facebook.com/devkawsarkabir)[<img height="55" src="./images/icons/linkedin.png">](https://www.linkedin.com/in/kawsarkabir) </p>_**
+**_<p align="center"> [<img height="55" src="./images/icons/website.png">](https://kawsarkabir.vercel.app)[<img height="55" src="./images/icons/facebook.png">](https://www.facebook.com/devkawsarkabir)[<img height="55" src="./images/icons/linkedin.png">](https://www.linkedin.com/in/kawsarkabir) </p>_**
 
 <br/>
 
@@ -111,6 +109,19 @@
     </td>
   </tr>
 </table>
+
+## :chart_with_upwards_trend: Current Stats
+
+<br />
+<div>
+  <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kawsarkabir&theme=github_dark">
+ 
+  <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kawsarkabir&theme=github_dark">
+
+  <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kawsarkabir&theme=github_dark&utcOffset=8" alt="GitHub Stats">
+
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kawsarkabir&theme=github_dark" alt="GitHub Stats">
+</div>
 
 ## :book: My recent blog posts
 
