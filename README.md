@@ -2,7 +2,8 @@
     <img src="./images/cover.svg"/>
 </a>
 
-<p>I am Kawsar Kabir, a Jr. Full-Stack Developer (MERN Stack). An Intellectually curious, self-motivated, and enthusiastic web developer with a deep interest in JavaScript. Seeking a challenging yet rewarding career with a progressive organization that provides the opportunity for development.
+<p>Hey! I'm Kawsar Kabir, a passionate and self-motivated Jr. Full-Stack Developer with over 3 years of hands-on learning experience in web development. I specialize in the MERN stack (MongoDB, Express, React, Node.js) along with JavaScript and TypeScript. What drives me is my intellectual curiosity and deep enthusiasm for problem-solving - I love building scalable, user-friendly web applications that make a real difference. My ultimate dream? To become a skilled Software Engineer and eventually launch my own IT startup that creates impactful tech products for businesses and communities. Right now, I'm actively seeking opportunities where I can grow, contribute, and collaborate in challenging and rewarding environments.
+
 </p>
 
 ## :eyes: Current overview
@@ -11,11 +12,11 @@
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="23%" />
 
-#### 💼 Currently working on DEV ZeroOne, a full-stack MERN project.
+#### 💼 Developing [DEV ZeroOne](https://github.com/kawsarkabir/devzeroone-client) — a MERN-based full-stack website.
 
 #### 🧣 Currently learning deep dive into advanced backend.
 
-#### 🌱 In my free time, I’m writing blogs on Medium.
+#### 📝 I'm writing technical blogs on [Medium](https://medium.com/@kawsarkabir)
 
 #### 🤝 I’m looking to collaborate on open-source projects.
 
