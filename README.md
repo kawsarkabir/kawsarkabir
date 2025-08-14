@@ -4,7 +4,7 @@
 
 ## :eyes: Current overview
 
-#### 🥅 Comfort Zone - Typescript, Javascript, React, Redux, Nextjs, ShadcnUI, Tailwind, Node, Express, Mongoose
+#### 🥅 Comfort Zone - TypeScript, JavaScript, Reactjs, Redux, Nextjs, ShadcnUI, Tailwind, Nodejs, Expressjs, Mongoose
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="23%" />
 
@@ -37,36 +37,6 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60" />
-      <br>Mongoose
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60" height="60" />
-      <br>Node JS
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="60" height="60" />
-      <br>Rest API
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="60" height="60" />
-      <br>Next.js
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgresql" width="60" height="60" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="60" height="60" />
-      <br>Express 
-    </td>
-   <td align="center" width="96">
-        <img src="./images/icons/shadcnui.png" alt="shadcn/ui logo" width="60" height="60" />
-      <br>shadcn/ui
-   </td>
-  </tr>
-  <tr>
-   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=react" alt="React" width="60" height="60" />
       <br>React
     </td>
@@ -75,12 +45,34 @@
       <br>Redux
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=firebase" width="60" height="60" alt="Firebase" />
-      <br>Firebase
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="60" height="60" />
+      <br>Next.js
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="60" height="60" alt="Figma" />
-      <br>Figma
+        <img src="./images/icons/shadcnui.png" alt="shadcn/ui logo" width="60" height="60" />
+      <br>shadcn/ui
+   </td>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60" />
+      <br>Mongoose
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60" height="60" />
+      <br>Nodejs
+    </td>
+</tr>
+  <tr>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="60" height="60" />
+      <br>Expressjs
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=firebase" width="60" height="60" alt="Firebase" />
+      <br>Firebase
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" width="60" height="60" />
@@ -91,16 +83,24 @@
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=scss" width="60" height="60" alt="CSS" />
-      <br>Sass
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS" />
       <br>CSS3
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML5" />
       <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="60" height="60" alt="postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vercel" width="60" height="60" alt="HTML5" />
+      <br>Vercel
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=yarn" width="60" height="60" alt="HTML5" />
+      <br>Yarn
     </td>
   </tr>
 </table>
