@@ -16,6 +16,13 @@
 
 #### 💤 Fun fact - My beautiful gf left me because whole day I do code :)
 
+## :chart_with_upwards_trend: Current Stats
+
+<div align="center">
+ <img width="49%" height="180" src="https://github-readme-streak-stats.herokuapp.com?user=kawsarkabir&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=%231E9ED5&sideLabels=%231E9ED5&currStreakNum=%231E9ED5&ring=%231E9ED5&currStreakLabel=%231E9ED5&sideNums=%231E9ED5" />
+ <img height="180" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawsarkabir&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=%231E9ED5&text_color=%231E9ED5&hide_progress=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
 ## :mailbox: Reach me out
 
 <br/>
@@ -104,19 +111,6 @@
     </td>
   </tr>
 </table>
-
-## :chart_with_upwards_trend: Current Stats
-
-<br />
-<div>
-  <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kawsarkabir&theme=github_dark">
- 
-  <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kawsarkabir&theme=github_dark">
-
-  <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kawsarkabir&theme=github_dark&utcOffset=8" alt="GitHub Stats">
-
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kawsarkabir&theme=github_dark" alt="GitHub Stats">
-</div>
 
 ## :book: My recent blog posts
 
