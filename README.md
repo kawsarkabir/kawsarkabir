@@ -19,8 +19,7 @@
 ## :chart_with_upwards_trend: Current Stats
 
 <div align="center">
- <img width="49%" height="180" src="https://github-readme-streak-stats.herokuapp.com?user=kawsarkabir&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=%231E9ED5&sideLabels=%231E9ED5&currStreakNum=%231E9ED5&ring=%231E9ED5&currStreakLabel=%231E9ED5&sideNums=%231E9ED5" />
- <img height="180" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawsarkabir&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=%231E9ED5&text_color=%231E9ED5&hide_progress=true&bg_color=0D1117" alt="Top Languages" />
+ <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=kawsarkabir&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=%231E9ED5&sideLabels=%231E9ED5&currStreakNum=%231E9ED5&ring=%231E9ED5&currStreakLabel=%231E9ED5&sideNums=%231E9ED5" />
 </div>
 
 ## :mailbox: Reach me out
